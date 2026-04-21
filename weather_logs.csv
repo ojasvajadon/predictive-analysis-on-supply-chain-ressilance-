@@ -1,0 +1,2401 @@
+date,location,weather_condition,weather_severity
+2023-01-01,Mumbai Port,Clear,0
+2023-01-01,Shanghai Port,Clear,0
+2023-01-01,Los Angeles Port,Fog,4
+2023-01-01,Rotterdam Port,Clear,0
+2023-01-01,Dubai Port,Clear,0
+2023-01-01,Singapore Port,Clear,0
+2023-01-02,Mumbai Port,Clear,0
+2023-01-02,Shanghai Port,Clear,0
+2023-01-02,Los Angeles Port,Clear,0
+2023-01-02,Rotterdam Port,Clear,0
+2023-01-02,Dubai Port,Clear,0
+2023-01-02,Singapore Port,Clear,0
+2023-01-03,Mumbai Port,Clear,0
+2023-01-03,Shanghai Port,Clear,0
+2023-01-03,Los Angeles Port,Clear,0
+2023-01-03,Rotterdam Port,Clear,0
+2023-01-03,Dubai Port,Clear,0
+2023-01-03,Singapore Port,Clear,0
+2023-01-04,Mumbai Port,Clear,0
+2023-01-04,Shanghai Port,Clear,0
+2023-01-04,Los Angeles Port,Clear,0
+2023-01-04,Rotterdam Port,Clear,0
+2023-01-04,Dubai Port,Fog,4
+2023-01-04,Singapore Port,Clear,0
+2023-01-05,Mumbai Port,Storm,7
+2023-01-05,Shanghai Port,Clear,0
+2023-01-05,Los Angeles Port,Clear,0
+2023-01-05,Rotterdam Port,Clear,0
+2023-01-05,Dubai Port,Fog,4
+2023-01-05,Singapore Port,Clear,0
+2023-01-06,Mumbai Port,Rain,1
+2023-01-06,Shanghai Port,Clear,0
+2023-01-06,Los Angeles Port,Fog,4
+2023-01-06,Rotterdam Port,Clear,0
+2023-01-06,Dubai Port,Rain,1
+2023-01-06,Singapore Port,Clear,0
+2023-01-07,Mumbai Port,Clear,0
+2023-01-07,Shanghai Port,Clear,0
+2023-01-07,Los Angeles Port,Clear,0
+2023-01-07,Rotterdam Port,Clear,0
+2023-01-07,Dubai Port,Clear,0
+2023-01-07,Singapore Port,Rain,1
+2023-01-08,Mumbai Port,Clear,0
+2023-01-08,Shanghai Port,Clear,0
+2023-01-08,Los Angeles Port,Rain,1
+2023-01-08,Rotterdam Port,Clear,0
+2023-01-08,Dubai Port,Clear,0
+2023-01-08,Singapore Port,Clear,0
+2023-01-09,Mumbai Port,Clear,0
+2023-01-09,Shanghai Port,Clear,0
+2023-01-09,Los Angeles Port,Fog,4
+2023-01-09,Rotterdam Port,Clear,0
+2023-01-09,Dubai Port,Clear,0
+2023-01-09,Singapore Port,Clear,0
+2023-01-10,Mumbai Port,Clear,0
+2023-01-10,Shanghai Port,Clear,0
+2023-01-10,Los Angeles Port,Fog,4
+2023-01-10,Rotterdam Port,Clear,0
+2023-01-10,Dubai Port,Fog,4
+2023-01-10,Singapore Port,Clear,0
+2023-01-11,Mumbai Port,Clear,0
+2023-01-11,Shanghai Port,Clear,0
+2023-01-11,Los Angeles Port,Heavy Rain,3
+2023-01-11,Rotterdam Port,Clear,0
+2023-01-11,Dubai Port,Clear,0
+2023-01-11,Singapore Port,Heavy Rain,3
+2023-01-12,Mumbai Port,Clear,0
+2023-01-12,Shanghai Port,Clear,0
+2023-01-12,Los Angeles Port,Clear,0
+2023-01-12,Rotterdam Port,Clear,0
+2023-01-12,Dubai Port,Clear,0
+2023-01-12,Singapore Port,Rain,1
+2023-01-13,Mumbai Port,Clear,0
+2023-01-13,Shanghai Port,Fog,4
+2023-01-13,Los Angeles Port,Clear,0
+2023-01-13,Rotterdam Port,Clear,0
+2023-01-13,Dubai Port,Clear,0
+2023-01-13,Singapore Port,Clear,0
+2023-01-14,Mumbai Port,Clear,0
+2023-01-14,Shanghai Port,Clear,0
+2023-01-14,Los Angeles Port,Clear,0
+2023-01-14,Rotterdam Port,Clear,0
+2023-01-14,Dubai Port,Clear,0
+2023-01-14,Singapore Port,Clear,0
+2023-01-15,Mumbai Port,Rain,1
+2023-01-15,Shanghai Port,Clear,0
+2023-01-15,Los Angeles Port,Clear,0
+2023-01-15,Rotterdam Port,Clear,0
+2023-01-15,Dubai Port,Clear,0
+2023-01-15,Singapore Port,Rain,1
+2023-01-16,Mumbai Port,Clear,0
+2023-01-16,Shanghai Port,Clear,0
+2023-01-16,Los Angeles Port,Clear,0
+2023-01-16,Rotterdam Port,Clear,0
+2023-01-16,Dubai Port,Clear,0
+2023-01-16,Singapore Port,Clear,0
+2023-01-17,Mumbai Port,Clear,0
+2023-01-17,Shanghai Port,Fog,4
+2023-01-17,Los Angeles Port,Heavy Rain,3
+2023-01-17,Rotterdam Port,Clear,0
+2023-01-17,Dubai Port,Clear,0
+2023-01-17,Singapore Port,Clear,0
+2023-01-18,Mumbai Port,Clear,0
+2023-01-18,Shanghai Port,Clear,0
+2023-01-18,Los Angeles Port,Clear,0
+2023-01-18,Rotterdam Port,Cyclone,10
+2023-01-18,Dubai Port,Heavy Rain,3
+2023-01-18,Singapore Port,Clear,0
+2023-01-19,Mumbai Port,Clear,0
+2023-01-19,Shanghai Port,Clear,0
+2023-01-19,Los Angeles Port,Clear,0
+2023-01-19,Rotterdam Port,Rain,1
+2023-01-19,Dubai Port,Fog,4
+2023-01-19,Singapore Port,Clear,0
+2023-01-20,Mumbai Port,Clear,0
+2023-01-20,Shanghai Port,Clear,0
+2023-01-20,Los Angeles Port,Clear,0
+2023-01-20,Rotterdam Port,Clear,0
+2023-01-20,Dubai Port,Cyclone,10
+2023-01-20,Singapore Port,Clear,0
+2023-01-21,Mumbai Port,Heavy Rain,3
+2023-01-21,Shanghai Port,Clear,0
+2023-01-21,Los Angeles Port,Clear,0
+2023-01-21,Rotterdam Port,Clear,0
+2023-01-21,Dubai Port,Clear,0
+2023-01-21,Singapore Port,Clear,0
+2023-01-22,Mumbai Port,Clear,0
+2023-01-22,Shanghai Port,Rain,1
+2023-01-22,Los Angeles Port,Clear,0
+2023-01-22,Rotterdam Port,Clear,0
+2023-01-22,Dubai Port,Clear,0
+2023-01-22,Singapore Port,Clear,0
+2023-01-23,Mumbai Port,Clear,0
+2023-01-23,Shanghai Port,Fog,4
+2023-01-23,Los Angeles Port,Heavy Rain,3
+2023-01-23,Rotterdam Port,Clear,0
+2023-01-23,Dubai Port,Clear,0
+2023-01-23,Singapore Port,Clear,0
+2023-01-24,Mumbai Port,Clear,0
+2023-01-24,Shanghai Port,Clear,0
+2023-01-24,Los Angeles Port,Clear,0
+2023-01-24,Rotterdam Port,Fog,4
+2023-01-24,Dubai Port,Clear,0
+2023-01-24,Singapore Port,Clear,0
+2023-01-25,Mumbai Port,Rain,1
+2023-01-25,Shanghai Port,Clear,0
+2023-01-25,Los Angeles Port,Clear,0
+2023-01-25,Rotterdam Port,Clear,0
+2023-01-25,Dubai Port,Clear,0
+2023-01-25,Singapore Port,Clear,0
+2023-01-26,Mumbai Port,Rain,1
+2023-01-26,Shanghai Port,Clear,0
+2023-01-26,Los Angeles Port,Clear,0
+2023-01-26,Rotterdam Port,Clear,0
+2023-01-26,Dubai Port,Clear,0
+2023-01-26,Singapore Port,Heavy Rain,3
+2023-01-27,Mumbai Port,Clear,0
+2023-01-27,Shanghai Port,Clear,0
+2023-01-27,Los Angeles Port,Clear,0
+2023-01-27,Rotterdam Port,Fog,4
+2023-01-27,Dubai Port,Clear,0
+2023-01-27,Singapore Port,Fog,4
+2023-01-28,Mumbai Port,Clear,0
+2023-01-28,Shanghai Port,Clear,0
+2023-01-28,Los Angeles Port,Fog,4
+2023-01-28,Rotterdam Port,Clear,0
+2023-01-28,Dubai Port,Clear,0
+2023-01-28,Singapore Port,Clear,0
+2023-01-29,Mumbai Port,Heavy Rain,3
+2023-01-29,Shanghai Port,Clear,0
+2023-01-29,Los Angeles Port,Clear,0
+2023-01-29,Rotterdam Port,Clear,0
+2023-01-29,Dubai Port,Heavy Rain,3
+2023-01-29,Singapore Port,Clear,0
+2023-01-30,Mumbai Port,Storm,7
+2023-01-30,Shanghai Port,Fog,4
+2023-01-30,Los Angeles Port,Clear,0
+2023-01-30,Rotterdam Port,Heavy Rain,3
+2023-01-30,Dubai Port,Clear,0
+2023-01-30,Singapore Port,Clear,0
+2023-01-31,Mumbai Port,Clear,0
+2023-01-31,Shanghai Port,Clear,0
+2023-01-31,Los Angeles Port,Clear,0
+2023-01-31,Rotterdam Port,Clear,0
+2023-01-31,Dubai Port,Clear,0
+2023-01-31,Singapore Port,Clear,0
+2023-02-01,Mumbai Port,Clear,0
+2023-02-01,Shanghai Port,Storm,7
+2023-02-01,Los Angeles Port,Clear,0
+2023-02-01,Rotterdam Port,Clear,0
+2023-02-01,Dubai Port,Clear,0
+2023-02-01,Singapore Port,Clear,0
+2023-02-02,Mumbai Port,Clear,0
+2023-02-02,Shanghai Port,Rain,1
+2023-02-02,Los Angeles Port,Rain,1
+2023-02-02,Rotterdam Port,Clear,0
+2023-02-02,Dubai Port,Clear,0
+2023-02-02,Singapore Port,Clear,0
+2023-02-03,Mumbai Port,Clear,0
+2023-02-03,Shanghai Port,Clear,0
+2023-02-03,Los Angeles Port,Clear,0
+2023-02-03,Rotterdam Port,Clear,0
+2023-02-03,Dubai Port,Clear,0
+2023-02-03,Singapore Port,Clear,0
+2023-02-04,Mumbai Port,Clear,0
+2023-02-04,Shanghai Port,Clear,0
+2023-02-04,Los Angeles Port,Clear,0
+2023-02-04,Rotterdam Port,Clear,0
+2023-02-04,Dubai Port,Clear,0
+2023-02-04,Singapore Port,Clear,0
+2023-02-05,Mumbai Port,Clear,0
+2023-02-05,Shanghai Port,Clear,0
+2023-02-05,Los Angeles Port,Clear,0
+2023-02-05,Rotterdam Port,Clear,0
+2023-02-05,Dubai Port,Clear,0
+2023-02-05,Singapore Port,Clear,0
+2023-02-06,Mumbai Port,Clear,0
+2023-02-06,Shanghai Port,Clear,0
+2023-02-06,Los Angeles Port,Clear,0
+2023-02-06,Rotterdam Port,Clear,0
+2023-02-06,Dubai Port,Clear,0
+2023-02-06,Singapore Port,Clear,0
+2023-02-07,Mumbai Port,Clear,0
+2023-02-07,Shanghai Port,Clear,0
+2023-02-07,Los Angeles Port,Clear,0
+2023-02-07,Rotterdam Port,Clear,0
+2023-02-07,Dubai Port,Clear,0
+2023-02-07,Singapore Port,Clear,0
+2023-02-08,Mumbai Port,Clear,0
+2023-02-08,Shanghai Port,Clear,0
+2023-02-08,Los Angeles Port,Clear,0
+2023-02-08,Rotterdam Port,Clear,0
+2023-02-08,Dubai Port,Clear,0
+2023-02-08,Singapore Port,Clear,0
+2023-02-09,Mumbai Port,Clear,0
+2023-02-09,Shanghai Port,Clear,0
+2023-02-09,Los Angeles Port,Clear,0
+2023-02-09,Rotterdam Port,Clear,0
+2023-02-09,Dubai Port,Clear,0
+2023-02-09,Singapore Port,Clear,0
+2023-02-10,Mumbai Port,Fog,4
+2023-02-10,Shanghai Port,Clear,0
+2023-02-10,Los Angeles Port,Clear,0
+2023-02-10,Rotterdam Port,Clear,0
+2023-02-10,Dubai Port,Clear,0
+2023-02-10,Singapore Port,Clear,0
+2023-02-11,Mumbai Port,Clear,0
+2023-02-11,Shanghai Port,Clear,0
+2023-02-11,Los Angeles Port,Clear,0
+2023-02-11,Rotterdam Port,Clear,0
+2023-02-11,Dubai Port,Rain,1
+2023-02-11,Singapore Port,Clear,0
+2023-02-12,Mumbai Port,Clear,0
+2023-02-12,Shanghai Port,Clear,0
+2023-02-12,Los Angeles Port,Clear,0
+2023-02-12,Rotterdam Port,Clear,0
+2023-02-12,Dubai Port,Clear,0
+2023-02-12,Singapore Port,Clear,0
+2023-02-13,Mumbai Port,Clear,0
+2023-02-13,Shanghai Port,Clear,0
+2023-02-13,Los Angeles Port,Clear,0
+2023-02-13,Rotterdam Port,Storm,7
+2023-02-13,Dubai Port,Clear,0
+2023-02-13,Singapore Port,Clear,0
+2023-02-14,Mumbai Port,Clear,0
+2023-02-14,Shanghai Port,Clear,0
+2023-02-14,Los Angeles Port,Clear,0
+2023-02-14,Rotterdam Port,Rain,1
+2023-02-14,Dubai Port,Clear,0
+2023-02-14,Singapore Port,Clear,0
+2023-02-15,Mumbai Port,Clear,0
+2023-02-15,Shanghai Port,Rain,1
+2023-02-15,Los Angeles Port,Clear,0
+2023-02-15,Rotterdam Port,Clear,0
+2023-02-15,Dubai Port,Clear,0
+2023-02-15,Singapore Port,Clear,0
+2023-02-16,Mumbai Port,Clear,0
+2023-02-16,Shanghai Port,Clear,0
+2023-02-16,Los Angeles Port,Clear,0
+2023-02-16,Rotterdam Port,Heavy Rain,3
+2023-02-16,Dubai Port,Clear,0
+2023-02-16,Singapore Port,Clear,0
+2023-02-17,Mumbai Port,Clear,0
+2023-02-17,Shanghai Port,Clear,0
+2023-02-17,Los Angeles Port,Clear,0
+2023-02-17,Rotterdam Port,Clear,0
+2023-02-17,Dubai Port,Clear,0
+2023-02-17,Singapore Port,Clear,0
+2023-02-18,Mumbai Port,Clear,0
+2023-02-18,Shanghai Port,Clear,0
+2023-02-18,Los Angeles Port,Clear,0
+2023-02-18,Rotterdam Port,Clear,0
+2023-02-18,Dubai Port,Clear,0
+2023-02-18,Singapore Port,Clear,0
+2023-02-19,Mumbai Port,Heavy Rain,3
+2023-02-19,Shanghai Port,Clear,0
+2023-02-19,Los Angeles Port,Clear,0
+2023-02-19,Rotterdam Port,Clear,0
+2023-02-19,Dubai Port,Rain,1
+2023-02-19,Singapore Port,Rain,1
+2023-02-20,Mumbai Port,Clear,0
+2023-02-20,Shanghai Port,Clear,0
+2023-02-20,Los Angeles Port,Clear,0
+2023-02-20,Rotterdam Port,Clear,0
+2023-02-20,Dubai Port,Clear,0
+2023-02-20,Singapore Port,Clear,0
+2023-02-21,Mumbai Port,Clear,0
+2023-02-21,Shanghai Port,Clear,0
+2023-02-21,Los Angeles Port,Clear,0
+2023-02-21,Rotterdam Port,Clear,0
+2023-02-21,Dubai Port,Fog,4
+2023-02-21,Singapore Port,Clear,0
+2023-02-22,Mumbai Port,Clear,0
+2023-02-22,Shanghai Port,Clear,0
+2023-02-22,Los Angeles Port,Clear,0
+2023-02-22,Rotterdam Port,Clear,0
+2023-02-22,Dubai Port,Clear,0
+2023-02-22,Singapore Port,Clear,0
+2023-02-23,Mumbai Port,Clear,0
+2023-02-23,Shanghai Port,Clear,0
+2023-02-23,Los Angeles Port,Clear,0
+2023-02-23,Rotterdam Port,Clear,0
+2023-02-23,Dubai Port,Clear,0
+2023-02-23,Singapore Port,Clear,0
+2023-02-24,Mumbai Port,Clear,0
+2023-02-24,Shanghai Port,Clear,0
+2023-02-24,Los Angeles Port,Rain,1
+2023-02-24,Rotterdam Port,Clear,0
+2023-02-24,Dubai Port,Clear,0
+2023-02-24,Singapore Port,Clear,0
+2023-02-25,Mumbai Port,Fog,4
+2023-02-25,Shanghai Port,Clear,0
+2023-02-25,Los Angeles Port,Clear,0
+2023-02-25,Rotterdam Port,Clear,0
+2023-02-25,Dubai Port,Rain,1
+2023-02-25,Singapore Port,Clear,0
+2023-02-26,Mumbai Port,Clear,0
+2023-02-26,Shanghai Port,Clear,0
+2023-02-26,Los Angeles Port,Clear,0
+2023-02-26,Rotterdam Port,Clear,0
+2023-02-26,Dubai Port,Clear,0
+2023-02-26,Singapore Port,Clear,0
+2023-02-27,Mumbai Port,Clear,0
+2023-02-27,Shanghai Port,Clear,0
+2023-02-27,Los Angeles Port,Cyclone,10
+2023-02-27,Rotterdam Port,Clear,0
+2023-02-27,Dubai Port,Clear,0
+2023-02-27,Singapore Port,Clear,0
+2023-02-28,Mumbai Port,Clear,0
+2023-02-28,Shanghai Port,Clear,0
+2023-02-28,Los Angeles Port,Clear,0
+2023-02-28,Rotterdam Port,Clear,0
+2023-02-28,Dubai Port,Rain,1
+2023-02-28,Singapore Port,Heavy Rain,3
+2023-03-01,Mumbai Port,Clear,0
+2023-03-01,Shanghai Port,Clear,0
+2023-03-01,Los Angeles Port,Heavy Rain,3
+2023-03-01,Rotterdam Port,Rain,1
+2023-03-01,Dubai Port,Clear,0
+2023-03-01,Singapore Port,Clear,0
+2023-03-02,Mumbai Port,Clear,0
+2023-03-02,Shanghai Port,Clear,0
+2023-03-02,Los Angeles Port,Clear,0
+2023-03-02,Rotterdam Port,Heavy Rain,3
+2023-03-02,Dubai Port,Clear,0
+2023-03-02,Singapore Port,Clear,0
+2023-03-03,Mumbai Port,Clear,0
+2023-03-03,Shanghai Port,Clear,0
+2023-03-03,Los Angeles Port,Cyclone,10
+2023-03-03,Rotterdam Port,Rain,1
+2023-03-03,Dubai Port,Clear,0
+2023-03-03,Singapore Port,Clear,0
+2023-03-04,Mumbai Port,Clear,0
+2023-03-04,Shanghai Port,Clear,0
+2023-03-04,Los Angeles Port,Clear,0
+2023-03-04,Rotterdam Port,Fog,4
+2023-03-04,Dubai Port,Clear,0
+2023-03-04,Singapore Port,Clear,0
+2023-03-05,Mumbai Port,Heavy Rain,3
+2023-03-05,Shanghai Port,Clear,0
+2023-03-05,Los Angeles Port,Clear,0
+2023-03-05,Rotterdam Port,Clear,0
+2023-03-05,Dubai Port,Clear,0
+2023-03-05,Singapore Port,Clear,0
+2023-03-06,Mumbai Port,Clear,0
+2023-03-06,Shanghai Port,Clear,0
+2023-03-06,Los Angeles Port,Clear,0
+2023-03-06,Rotterdam Port,Clear,0
+2023-03-06,Dubai Port,Clear,0
+2023-03-06,Singapore Port,Clear,0
+2023-03-07,Mumbai Port,Clear,0
+2023-03-07,Shanghai Port,Clear,0
+2023-03-07,Los Angeles Port,Heavy Rain,3
+2023-03-07,Rotterdam Port,Clear,0
+2023-03-07,Dubai Port,Clear,0
+2023-03-07,Singapore Port,Clear,0
+2023-03-08,Mumbai Port,Clear,0
+2023-03-08,Shanghai Port,Clear,0
+2023-03-08,Los Angeles Port,Clear,0
+2023-03-08,Rotterdam Port,Heavy Rain,3
+2023-03-08,Dubai Port,Clear,0
+2023-03-08,Singapore Port,Fog,4
+2023-03-09,Mumbai Port,Clear,0
+2023-03-09,Shanghai Port,Clear,0
+2023-03-09,Los Angeles Port,Clear,0
+2023-03-09,Rotterdam Port,Clear,0
+2023-03-09,Dubai Port,Clear,0
+2023-03-09,Singapore Port,Clear,0
+2023-03-10,Mumbai Port,Heavy Rain,3
+2023-03-10,Shanghai Port,Rain,1
+2023-03-10,Los Angeles Port,Rain,1
+2023-03-10,Rotterdam Port,Clear,0
+2023-03-10,Dubai Port,Clear,0
+2023-03-10,Singapore Port,Clear,0
+2023-03-11,Mumbai Port,Clear,0
+2023-03-11,Shanghai Port,Clear,0
+2023-03-11,Los Angeles Port,Clear,0
+2023-03-11,Rotterdam Port,Clear,0
+2023-03-11,Dubai Port,Clear,0
+2023-03-11,Singapore Port,Clear,0
+2023-03-12,Mumbai Port,Clear,0
+2023-03-12,Shanghai Port,Clear,0
+2023-03-12,Los Angeles Port,Clear,0
+2023-03-12,Rotterdam Port,Clear,0
+2023-03-12,Dubai Port,Clear,0
+2023-03-12,Singapore Port,Clear,0
+2023-03-13,Mumbai Port,Clear,0
+2023-03-13,Shanghai Port,Clear,0
+2023-03-13,Los Angeles Port,Clear,0
+2023-03-13,Rotterdam Port,Clear,0
+2023-03-13,Dubai Port,Clear,0
+2023-03-13,Singapore Port,Clear,0
+2023-03-14,Mumbai Port,Clear,0
+2023-03-14,Shanghai Port,Clear,0
+2023-03-14,Los Angeles Port,Fog,4
+2023-03-14,Rotterdam Port,Clear,0
+2023-03-14,Dubai Port,Clear,0
+2023-03-14,Singapore Port,Clear,0
+2023-03-15,Mumbai Port,Clear,0
+2023-03-15,Shanghai Port,Clear,0
+2023-03-15,Los Angeles Port,Clear,0
+2023-03-15,Rotterdam Port,Fog,4
+2023-03-15,Dubai Port,Clear,0
+2023-03-15,Singapore Port,Clear,0
+2023-03-16,Mumbai Port,Clear,0
+2023-03-16,Shanghai Port,Clear,0
+2023-03-16,Los Angeles Port,Clear,0
+2023-03-16,Rotterdam Port,Clear,0
+2023-03-16,Dubai Port,Clear,0
+2023-03-16,Singapore Port,Clear,0
+2023-03-17,Mumbai Port,Clear,0
+2023-03-17,Shanghai Port,Clear,0
+2023-03-17,Los Angeles Port,Clear,0
+2023-03-17,Rotterdam Port,Rain,1
+2023-03-17,Dubai Port,Clear,0
+2023-03-17,Singapore Port,Storm,7
+2023-03-18,Mumbai Port,Clear,0
+2023-03-18,Shanghai Port,Clear,0
+2023-03-18,Los Angeles Port,Clear,0
+2023-03-18,Rotterdam Port,Clear,0
+2023-03-18,Dubai Port,Clear,0
+2023-03-18,Singapore Port,Clear,0
+2023-03-19,Mumbai Port,Clear,0
+2023-03-19,Shanghai Port,Clear,0
+2023-03-19,Los Angeles Port,Clear,0
+2023-03-19,Rotterdam Port,Fog,4
+2023-03-19,Dubai Port,Clear,0
+2023-03-19,Singapore Port,Clear,0
+2023-03-20,Mumbai Port,Clear,0
+2023-03-20,Shanghai Port,Storm,7
+2023-03-20,Los Angeles Port,Storm,7
+2023-03-20,Rotterdam Port,Clear,0
+2023-03-20,Dubai Port,Clear,0
+2023-03-20,Singapore Port,Clear,0
+2023-03-21,Mumbai Port,Clear,0
+2023-03-21,Shanghai Port,Clear,0
+2023-03-21,Los Angeles Port,Fog,4
+2023-03-21,Rotterdam Port,Clear,0
+2023-03-21,Dubai Port,Rain,1
+2023-03-21,Singapore Port,Clear,0
+2023-03-22,Mumbai Port,Clear,0
+2023-03-22,Shanghai Port,Clear,0
+2023-03-22,Los Angeles Port,Fog,4
+2023-03-22,Rotterdam Port,Clear,0
+2023-03-22,Dubai Port,Clear,0
+2023-03-22,Singapore Port,Clear,0
+2023-03-23,Mumbai Port,Clear,0
+2023-03-23,Shanghai Port,Rain,1
+2023-03-23,Los Angeles Port,Clear,0
+2023-03-23,Rotterdam Port,Clear,0
+2023-03-23,Dubai Port,Rain,1
+2023-03-23,Singapore Port,Cyclone,10
+2023-03-24,Mumbai Port,Clear,0
+2023-03-24,Shanghai Port,Clear,0
+2023-03-24,Los Angeles Port,Clear,0
+2023-03-24,Rotterdam Port,Clear,0
+2023-03-24,Dubai Port,Clear,0
+2023-03-24,Singapore Port,Clear,0
+2023-03-25,Mumbai Port,Clear,0
+2023-03-25,Shanghai Port,Heavy Rain,3
+2023-03-25,Los Angeles Port,Clear,0
+2023-03-25,Rotterdam Port,Clear,0
+2023-03-25,Dubai Port,Rain,1
+2023-03-25,Singapore Port,Clear,0
+2023-03-26,Mumbai Port,Clear,0
+2023-03-26,Shanghai Port,Clear,0
+2023-03-26,Los Angeles Port,Clear,0
+2023-03-26,Rotterdam Port,Clear,0
+2023-03-26,Dubai Port,Clear,0
+2023-03-26,Singapore Port,Cyclone,10
+2023-03-27,Mumbai Port,Clear,0
+2023-03-27,Shanghai Port,Clear,0
+2023-03-27,Los Angeles Port,Clear,0
+2023-03-27,Rotterdam Port,Clear,0
+2023-03-27,Dubai Port,Clear,0
+2023-03-27,Singapore Port,Clear,0
+2023-03-28,Mumbai Port,Clear,0
+2023-03-28,Shanghai Port,Heavy Rain,3
+2023-03-28,Los Angeles Port,Clear,0
+2023-03-28,Rotterdam Port,Fog,4
+2023-03-28,Dubai Port,Clear,0
+2023-03-28,Singapore Port,Clear,0
+2023-03-29,Mumbai Port,Clear,0
+2023-03-29,Shanghai Port,Clear,0
+2023-03-29,Los Angeles Port,Clear,0
+2023-03-29,Rotterdam Port,Clear,0
+2023-03-29,Dubai Port,Clear,0
+2023-03-29,Singapore Port,Clear,0
+2023-03-30,Mumbai Port,Clear,0
+2023-03-30,Shanghai Port,Fog,4
+2023-03-30,Los Angeles Port,Heavy Rain,3
+2023-03-30,Rotterdam Port,Clear,0
+2023-03-30,Dubai Port,Clear,0
+2023-03-30,Singapore Port,Clear,0
+2023-03-31,Mumbai Port,Rain,1
+2023-03-31,Shanghai Port,Clear,0
+2023-03-31,Los Angeles Port,Clear,0
+2023-03-31,Rotterdam Port,Clear,0
+2023-03-31,Dubai Port,Clear,0
+2023-03-31,Singapore Port,Heavy Rain,3
+2023-04-01,Mumbai Port,Clear,0
+2023-04-01,Shanghai Port,Clear,0
+2023-04-01,Los Angeles Port,Clear,0
+2023-04-01,Rotterdam Port,Clear,0
+2023-04-01,Dubai Port,Clear,0
+2023-04-01,Singapore Port,Rain,1
+2023-04-02,Mumbai Port,Clear,0
+2023-04-02,Shanghai Port,Clear,0
+2023-04-02,Los Angeles Port,Clear,0
+2023-04-02,Rotterdam Port,Clear,0
+2023-04-02,Dubai Port,Clear,0
+2023-04-02,Singapore Port,Clear,0
+2023-04-03,Mumbai Port,Clear,0
+2023-04-03,Shanghai Port,Clear,0
+2023-04-03,Los Angeles Port,Clear,0
+2023-04-03,Rotterdam Port,Clear,0
+2023-04-03,Dubai Port,Rain,1
+2023-04-03,Singapore Port,Clear,0
+2023-04-04,Mumbai Port,Heavy Rain,3
+2023-04-04,Shanghai Port,Clear,0
+2023-04-04,Los Angeles Port,Clear,0
+2023-04-04,Rotterdam Port,Fog,4
+2023-04-04,Dubai Port,Clear,0
+2023-04-04,Singapore Port,Heavy Rain,3
+2023-04-05,Mumbai Port,Clear,0
+2023-04-05,Shanghai Port,Fog,4
+2023-04-05,Los Angeles Port,Clear,0
+2023-04-05,Rotterdam Port,Clear,0
+2023-04-05,Dubai Port,Clear,0
+2023-04-05,Singapore Port,Clear,0
+2023-04-06,Mumbai Port,Clear,0
+2023-04-06,Shanghai Port,Clear,0
+2023-04-06,Los Angeles Port,Clear,0
+2023-04-06,Rotterdam Port,Clear,0
+2023-04-06,Dubai Port,Clear,0
+2023-04-06,Singapore Port,Clear,0
+2023-04-07,Mumbai Port,Clear,0
+2023-04-07,Shanghai Port,Clear,0
+2023-04-07,Los Angeles Port,Clear,0
+2023-04-07,Rotterdam Port,Clear,0
+2023-04-07,Dubai Port,Clear,0
+2023-04-07,Singapore Port,Clear,0
+2023-04-08,Mumbai Port,Clear,0
+2023-04-08,Shanghai Port,Clear,0
+2023-04-08,Los Angeles Port,Clear,0
+2023-04-08,Rotterdam Port,Clear,0
+2023-04-08,Dubai Port,Clear,0
+2023-04-08,Singapore Port,Clear,0
+2023-04-09,Mumbai Port,Clear,0
+2023-04-09,Shanghai Port,Clear,0
+2023-04-09,Los Angeles Port,Clear,0
+2023-04-09,Rotterdam Port,Clear,0
+2023-04-09,Dubai Port,Clear,0
+2023-04-09,Singapore Port,Clear,0
+2023-04-10,Mumbai Port,Clear,0
+2023-04-10,Shanghai Port,Heavy Rain,3
+2023-04-10,Los Angeles Port,Clear,0
+2023-04-10,Rotterdam Port,Fog,4
+2023-04-10,Dubai Port,Clear,0
+2023-04-10,Singapore Port,Clear,0
+2023-04-11,Mumbai Port,Clear,0
+2023-04-11,Shanghai Port,Clear,0
+2023-04-11,Los Angeles Port,Clear,0
+2023-04-11,Rotterdam Port,Clear,0
+2023-04-11,Dubai Port,Clear,0
+2023-04-11,Singapore Port,Clear,0
+2023-04-12,Mumbai Port,Clear,0
+2023-04-12,Shanghai Port,Clear,0
+2023-04-12,Los Angeles Port,Clear,0
+2023-04-12,Rotterdam Port,Heavy Rain,3
+2023-04-12,Dubai Port,Clear,0
+2023-04-12,Singapore Port,Clear,0
+2023-04-13,Mumbai Port,Clear,0
+2023-04-13,Shanghai Port,Clear,0
+2023-04-13,Los Angeles Port,Clear,0
+2023-04-13,Rotterdam Port,Clear,0
+2023-04-13,Dubai Port,Clear,0
+2023-04-13,Singapore Port,Clear,0
+2023-04-14,Mumbai Port,Clear,0
+2023-04-14,Shanghai Port,Clear,0
+2023-04-14,Los Angeles Port,Clear,0
+2023-04-14,Rotterdam Port,Clear,0
+2023-04-14,Dubai Port,Fog,4
+2023-04-14,Singapore Port,Clear,0
+2023-04-15,Mumbai Port,Clear,0
+2023-04-15,Shanghai Port,Clear,0
+2023-04-15,Los Angeles Port,Fog,4
+2023-04-15,Rotterdam Port,Cyclone,10
+2023-04-15,Dubai Port,Clear,0
+2023-04-15,Singapore Port,Rain,1
+2023-04-16,Mumbai Port,Clear,0
+2023-04-16,Shanghai Port,Clear,0
+2023-04-16,Los Angeles Port,Rain,1
+2023-04-16,Rotterdam Port,Clear,0
+2023-04-16,Dubai Port,Clear,0
+2023-04-16,Singapore Port,Cyclone,10
+2023-04-17,Mumbai Port,Fog,4
+2023-04-17,Shanghai Port,Clear,0
+2023-04-17,Los Angeles Port,Clear,0
+2023-04-17,Rotterdam Port,Clear,0
+2023-04-17,Dubai Port,Clear,0
+2023-04-17,Singapore Port,Clear,0
+2023-04-18,Mumbai Port,Clear,0
+2023-04-18,Shanghai Port,Rain,1
+2023-04-18,Los Angeles Port,Clear,0
+2023-04-18,Rotterdam Port,Clear,0
+2023-04-18,Dubai Port,Clear,0
+2023-04-18,Singapore Port,Clear,0
+2023-04-19,Mumbai Port,Clear,0
+2023-04-19,Shanghai Port,Clear,0
+2023-04-19,Los Angeles Port,Clear,0
+2023-04-19,Rotterdam Port,Heavy Rain,3
+2023-04-19,Dubai Port,Clear,0
+2023-04-19,Singapore Port,Rain,1
+2023-04-20,Mumbai Port,Fog,4
+2023-04-20,Shanghai Port,Clear,0
+2023-04-20,Los Angeles Port,Clear,0
+2023-04-20,Rotterdam Port,Clear,0
+2023-04-20,Dubai Port,Clear,0
+2023-04-20,Singapore Port,Clear,0
+2023-04-21,Mumbai Port,Clear,0
+2023-04-21,Shanghai Port,Clear,0
+2023-04-21,Los Angeles Port,Clear,0
+2023-04-21,Rotterdam Port,Clear,0
+2023-04-21,Dubai Port,Clear,0
+2023-04-21,Singapore Port,Clear,0
+2023-04-22,Mumbai Port,Rain,1
+2023-04-22,Shanghai Port,Clear,0
+2023-04-22,Los Angeles Port,Clear,0
+2023-04-22,Rotterdam Port,Clear,0
+2023-04-22,Dubai Port,Fog,4
+2023-04-22,Singapore Port,Clear,0
+2023-04-23,Mumbai Port,Clear,0
+2023-04-23,Shanghai Port,Clear,0
+2023-04-23,Los Angeles Port,Clear,0
+2023-04-23,Rotterdam Port,Clear,0
+2023-04-23,Dubai Port,Clear,0
+2023-04-23,Singapore Port,Clear,0
+2023-04-24,Mumbai Port,Clear,0
+2023-04-24,Shanghai Port,Clear,0
+2023-04-24,Los Angeles Port,Clear,0
+2023-04-24,Rotterdam Port,Rain,1
+2023-04-24,Dubai Port,Clear,0
+2023-04-24,Singapore Port,Clear,0
+2023-04-25,Mumbai Port,Clear,0
+2023-04-25,Shanghai Port,Clear,0
+2023-04-25,Los Angeles Port,Clear,0
+2023-04-25,Rotterdam Port,Clear,0
+2023-04-25,Dubai Port,Clear,0
+2023-04-25,Singapore Port,Clear,0
+2023-04-26,Mumbai Port,Clear,0
+2023-04-26,Shanghai Port,Clear,0
+2023-04-26,Los Angeles Port,Clear,0
+2023-04-26,Rotterdam Port,Clear,0
+2023-04-26,Dubai Port,Clear,0
+2023-04-26,Singapore Port,Clear,0
+2023-04-27,Mumbai Port,Rain,1
+2023-04-27,Shanghai Port,Clear,0
+2023-04-27,Los Angeles Port,Fog,4
+2023-04-27,Rotterdam Port,Clear,0
+2023-04-27,Dubai Port,Cyclone,10
+2023-04-27,Singapore Port,Clear,0
+2023-04-28,Mumbai Port,Heavy Rain,3
+2023-04-28,Shanghai Port,Clear,0
+2023-04-28,Los Angeles Port,Clear,0
+2023-04-28,Rotterdam Port,Clear,0
+2023-04-28,Dubai Port,Clear,0
+2023-04-28,Singapore Port,Clear,0
+2023-04-29,Mumbai Port,Clear,0
+2023-04-29,Shanghai Port,Clear,0
+2023-04-29,Los Angeles Port,Clear,0
+2023-04-29,Rotterdam Port,Clear,0
+2023-04-29,Dubai Port,Clear,0
+2023-04-29,Singapore Port,Clear,0
+2023-04-30,Mumbai Port,Clear,0
+2023-04-30,Shanghai Port,Rain,1
+2023-04-30,Los Angeles Port,Clear,0
+2023-04-30,Rotterdam Port,Clear,0
+2023-04-30,Dubai Port,Clear,0
+2023-04-30,Singapore Port,Clear,0
+2023-05-01,Mumbai Port,Clear,0
+2023-05-01,Shanghai Port,Heavy Rain,3
+2023-05-01,Los Angeles Port,Clear,0
+2023-05-01,Rotterdam Port,Fog,4
+2023-05-01,Dubai Port,Clear,0
+2023-05-01,Singapore Port,Clear,0
+2023-05-02,Mumbai Port,Clear,0
+2023-05-02,Shanghai Port,Heavy Rain,3
+2023-05-02,Los Angeles Port,Clear,0
+2023-05-02,Rotterdam Port,Rain,1
+2023-05-02,Dubai Port,Clear,0
+2023-05-02,Singapore Port,Storm,7
+2023-05-03,Mumbai Port,Cyclone,10
+2023-05-03,Shanghai Port,Clear,0
+2023-05-03,Los Angeles Port,Clear,0
+2023-05-03,Rotterdam Port,Heavy Rain,3
+2023-05-03,Dubai Port,Fog,4
+2023-05-03,Singapore Port,Clear,0
+2023-05-04,Mumbai Port,Clear,0
+2023-05-04,Shanghai Port,Clear,0
+2023-05-04,Los Angeles Port,Clear,0
+2023-05-04,Rotterdam Port,Clear,0
+2023-05-04,Dubai Port,Fog,4
+2023-05-04,Singapore Port,Clear,0
+2023-05-05,Mumbai Port,Clear,0
+2023-05-05,Shanghai Port,Clear,0
+2023-05-05,Los Angeles Port,Clear,0
+2023-05-05,Rotterdam Port,Clear,0
+2023-05-05,Dubai Port,Clear,0
+2023-05-05,Singapore Port,Clear,0
+2023-05-06,Mumbai Port,Clear,0
+2023-05-06,Shanghai Port,Clear,0
+2023-05-06,Los Angeles Port,Clear,0
+2023-05-06,Rotterdam Port,Clear,0
+2023-05-06,Dubai Port,Clear,0
+2023-05-06,Singapore Port,Clear,0
+2023-05-07,Mumbai Port,Rain,1
+2023-05-07,Shanghai Port,Heavy Rain,3
+2023-05-07,Los Angeles Port,Clear,0
+2023-05-07,Rotterdam Port,Clear,0
+2023-05-07,Dubai Port,Clear,0
+2023-05-07,Singapore Port,Clear,0
+2023-05-08,Mumbai Port,Clear,0
+2023-05-08,Shanghai Port,Clear,0
+2023-05-08,Los Angeles Port,Clear,0
+2023-05-08,Rotterdam Port,Clear,0
+2023-05-08,Dubai Port,Clear,0
+2023-05-08,Singapore Port,Clear,0
+2023-05-09,Mumbai Port,Clear,0
+2023-05-09,Shanghai Port,Clear,0
+2023-05-09,Los Angeles Port,Clear,0
+2023-05-09,Rotterdam Port,Clear,0
+2023-05-09,Dubai Port,Clear,0
+2023-05-09,Singapore Port,Rain,1
+2023-05-10,Mumbai Port,Clear,0
+2023-05-10,Shanghai Port,Rain,1
+2023-05-10,Los Angeles Port,Clear,0
+2023-05-10,Rotterdam Port,Heavy Rain,3
+2023-05-10,Dubai Port,Clear,0
+2023-05-10,Singapore Port,Clear,0
+2023-05-11,Mumbai Port,Clear,0
+2023-05-11,Shanghai Port,Clear,0
+2023-05-11,Los Angeles Port,Heavy Rain,3
+2023-05-11,Rotterdam Port,Clear,0
+2023-05-11,Dubai Port,Clear,0
+2023-05-11,Singapore Port,Rain,1
+2023-05-12,Mumbai Port,Fog,4
+2023-05-12,Shanghai Port,Clear,0
+2023-05-12,Los Angeles Port,Clear,0
+2023-05-12,Rotterdam Port,Rain,1
+2023-05-12,Dubai Port,Clear,0
+2023-05-12,Singapore Port,Clear,0
+2023-05-13,Mumbai Port,Clear,0
+2023-05-13,Shanghai Port,Clear,0
+2023-05-13,Los Angeles Port,Clear,0
+2023-05-13,Rotterdam Port,Clear,0
+2023-05-13,Dubai Port,Clear,0
+2023-05-13,Singapore Port,Clear,0
+2023-05-14,Mumbai Port,Rain,1
+2023-05-14,Shanghai Port,Fog,4
+2023-05-14,Los Angeles Port,Clear,0
+2023-05-14,Rotterdam Port,Clear,0
+2023-05-14,Dubai Port,Clear,0
+2023-05-14,Singapore Port,Clear,0
+2023-05-15,Mumbai Port,Clear,0
+2023-05-15,Shanghai Port,Clear,0
+2023-05-15,Los Angeles Port,Clear,0
+2023-05-15,Rotterdam Port,Clear,0
+2023-05-15,Dubai Port,Clear,0
+2023-05-15,Singapore Port,Clear,0
+2023-05-16,Mumbai Port,Clear,0
+2023-05-16,Shanghai Port,Clear,0
+2023-05-16,Los Angeles Port,Clear,0
+2023-05-16,Rotterdam Port,Clear,0
+2023-05-16,Dubai Port,Clear,0
+2023-05-16,Singapore Port,Clear,0
+2023-05-17,Mumbai Port,Clear,0
+2023-05-17,Shanghai Port,Clear,0
+2023-05-17,Los Angeles Port,Fog,4
+2023-05-17,Rotterdam Port,Clear,0
+2023-05-17,Dubai Port,Clear,0
+2023-05-17,Singapore Port,Clear,0
+2023-05-18,Mumbai Port,Clear,0
+2023-05-18,Shanghai Port,Clear,0
+2023-05-18,Los Angeles Port,Clear,0
+2023-05-18,Rotterdam Port,Fog,4
+2023-05-18,Dubai Port,Clear,0
+2023-05-18,Singapore Port,Clear,0
+2023-05-19,Mumbai Port,Clear,0
+2023-05-19,Shanghai Port,Clear,0
+2023-05-19,Los Angeles Port,Clear,0
+2023-05-19,Rotterdam Port,Clear,0
+2023-05-19,Dubai Port,Rain,1
+2023-05-19,Singapore Port,Clear,0
+2023-05-20,Mumbai Port,Clear,0
+2023-05-20,Shanghai Port,Rain,1
+2023-05-20,Los Angeles Port,Clear,0
+2023-05-20,Rotterdam Port,Clear,0
+2023-05-20,Dubai Port,Heavy Rain,3
+2023-05-20,Singapore Port,Clear,0
+2023-05-21,Mumbai Port,Clear,0
+2023-05-21,Shanghai Port,Clear,0
+2023-05-21,Los Angeles Port,Fog,4
+2023-05-21,Rotterdam Port,Clear,0
+2023-05-21,Dubai Port,Cyclone,10
+2023-05-21,Singapore Port,Clear,0
+2023-05-22,Mumbai Port,Clear,0
+2023-05-22,Shanghai Port,Clear,0
+2023-05-22,Los Angeles Port,Clear,0
+2023-05-22,Rotterdam Port,Fog,4
+2023-05-22,Dubai Port,Clear,0
+2023-05-22,Singapore Port,Clear,0
+2023-05-23,Mumbai Port,Clear,0
+2023-05-23,Shanghai Port,Clear,0
+2023-05-23,Los Angeles Port,Clear,0
+2023-05-23,Rotterdam Port,Clear,0
+2023-05-23,Dubai Port,Clear,0
+2023-05-23,Singapore Port,Clear,0
+2023-05-24,Mumbai Port,Clear,0
+2023-05-24,Shanghai Port,Clear,0
+2023-05-24,Los Angeles Port,Clear,0
+2023-05-24,Rotterdam Port,Clear,0
+2023-05-24,Dubai Port,Clear,0
+2023-05-24,Singapore Port,Clear,0
+2023-05-25,Mumbai Port,Clear,0
+2023-05-25,Shanghai Port,Heavy Rain,3
+2023-05-25,Los Angeles Port,Clear,0
+2023-05-25,Rotterdam Port,Clear,0
+2023-05-25,Dubai Port,Clear,0
+2023-05-25,Singapore Port,Clear,0
+2023-05-26,Mumbai Port,Clear,0
+2023-05-26,Shanghai Port,Clear,0
+2023-05-26,Los Angeles Port,Clear,0
+2023-05-26,Rotterdam Port,Clear,0
+2023-05-26,Dubai Port,Fog,4
+2023-05-26,Singapore Port,Clear,0
+2023-05-27,Mumbai Port,Rain,1
+2023-05-27,Shanghai Port,Clear,0
+2023-05-27,Los Angeles Port,Clear,0
+2023-05-27,Rotterdam Port,Fog,4
+2023-05-27,Dubai Port,Clear,0
+2023-05-27,Singapore Port,Clear,0
+2023-05-28,Mumbai Port,Clear,0
+2023-05-28,Shanghai Port,Clear,0
+2023-05-28,Los Angeles Port,Rain,1
+2023-05-28,Rotterdam Port,Heavy Rain,3
+2023-05-28,Dubai Port,Heavy Rain,3
+2023-05-28,Singapore Port,Rain,1
+2023-05-29,Mumbai Port,Heavy Rain,3
+2023-05-29,Shanghai Port,Clear,0
+2023-05-29,Los Angeles Port,Clear,0
+2023-05-29,Rotterdam Port,Clear,0
+2023-05-29,Dubai Port,Clear,0
+2023-05-29,Singapore Port,Clear,0
+2023-05-30,Mumbai Port,Clear,0
+2023-05-30,Shanghai Port,Clear,0
+2023-05-30,Los Angeles Port,Clear,0
+2023-05-30,Rotterdam Port,Clear,0
+2023-05-30,Dubai Port,Rain,1
+2023-05-30,Singapore Port,Clear,0
+2023-05-31,Mumbai Port,Clear,0
+2023-05-31,Shanghai Port,Clear,0
+2023-05-31,Los Angeles Port,Clear,0
+2023-05-31,Rotterdam Port,Clear,0
+2023-05-31,Dubai Port,Clear,0
+2023-05-31,Singapore Port,Clear,0
+2023-06-01,Mumbai Port,Clear,0
+2023-06-01,Shanghai Port,Rain,1
+2023-06-01,Los Angeles Port,Clear,0
+2023-06-01,Rotterdam Port,Heavy Rain,3
+2023-06-01,Dubai Port,Clear,0
+2023-06-01,Singapore Port,Clear,0
+2023-06-02,Mumbai Port,Clear,0
+2023-06-02,Shanghai Port,Clear,0
+2023-06-02,Los Angeles Port,Clear,0
+2023-06-02,Rotterdam Port,Clear,0
+2023-06-02,Dubai Port,Clear,0
+2023-06-02,Singapore Port,Clear,0
+2023-06-03,Mumbai Port,Clear,0
+2023-06-03,Shanghai Port,Clear,0
+2023-06-03,Los Angeles Port,Clear,0
+2023-06-03,Rotterdam Port,Clear,0
+2023-06-03,Dubai Port,Clear,0
+2023-06-03,Singapore Port,Clear,0
+2023-06-04,Mumbai Port,Clear,0
+2023-06-04,Shanghai Port,Clear,0
+2023-06-04,Los Angeles Port,Storm,7
+2023-06-04,Rotterdam Port,Clear,0
+2023-06-04,Dubai Port,Rain,1
+2023-06-04,Singapore Port,Heavy Rain,3
+2023-06-05,Mumbai Port,Clear,0
+2023-06-05,Shanghai Port,Clear,0
+2023-06-05,Los Angeles Port,Clear,0
+2023-06-05,Rotterdam Port,Clear,0
+2023-06-05,Dubai Port,Clear,0
+2023-06-05,Singapore Port,Clear,0
+2023-06-06,Mumbai Port,Fog,4
+2023-06-06,Shanghai Port,Clear,0
+2023-06-06,Los Angeles Port,Heavy Rain,3
+2023-06-06,Rotterdam Port,Clear,0
+2023-06-06,Dubai Port,Clear,0
+2023-06-06,Singapore Port,Clear,0
+2023-06-07,Mumbai Port,Heavy Rain,3
+2023-06-07,Shanghai Port,Rain,1
+2023-06-07,Los Angeles Port,Fog,4
+2023-06-07,Rotterdam Port,Clear,0
+2023-06-07,Dubai Port,Clear,0
+2023-06-07,Singapore Port,Fog,4
+2023-06-08,Mumbai Port,Clear,0
+2023-06-08,Shanghai Port,Clear,0
+2023-06-08,Los Angeles Port,Clear,0
+2023-06-08,Rotterdam Port,Clear,0
+2023-06-08,Dubai Port,Clear,0
+2023-06-08,Singapore Port,Clear,0
+2023-06-09,Mumbai Port,Heavy Rain,3
+2023-06-09,Shanghai Port,Clear,0
+2023-06-09,Los Angeles Port,Clear,0
+2023-06-09,Rotterdam Port,Clear,0
+2023-06-09,Dubai Port,Clear,0
+2023-06-09,Singapore Port,Clear,0
+2023-06-10,Mumbai Port,Clear,0
+2023-06-10,Shanghai Port,Rain,1
+2023-06-10,Los Angeles Port,Clear,0
+2023-06-10,Rotterdam Port,Clear,0
+2023-06-10,Dubai Port,Clear,0
+2023-06-10,Singapore Port,Fog,4
+2023-06-11,Mumbai Port,Clear,0
+2023-06-11,Shanghai Port,Clear,0
+2023-06-11,Los Angeles Port,Clear,0
+2023-06-11,Rotterdam Port,Clear,0
+2023-06-11,Dubai Port,Rain,1
+2023-06-11,Singapore Port,Clear,0
+2023-06-12,Mumbai Port,Clear,0
+2023-06-12,Shanghai Port,Clear,0
+2023-06-12,Los Angeles Port,Cyclone,10
+2023-06-12,Rotterdam Port,Clear,0
+2023-06-12,Dubai Port,Clear,0
+2023-06-12,Singapore Port,Fog,4
+2023-06-13,Mumbai Port,Clear,0
+2023-06-13,Shanghai Port,Clear,0
+2023-06-13,Los Angeles Port,Clear,0
+2023-06-13,Rotterdam Port,Heavy Rain,3
+2023-06-13,Dubai Port,Clear,0
+2023-06-13,Singapore Port,Clear,0
+2023-06-14,Mumbai Port,Clear,0
+2023-06-14,Shanghai Port,Fog,4
+2023-06-14,Los Angeles Port,Heavy Rain,3
+2023-06-14,Rotterdam Port,Clear,0
+2023-06-14,Dubai Port,Clear,0
+2023-06-14,Singapore Port,Heavy Rain,3
+2023-06-15,Mumbai Port,Clear,0
+2023-06-15,Shanghai Port,Rain,1
+2023-06-15,Los Angeles Port,Clear,0
+2023-06-15,Rotterdam Port,Clear,0
+2023-06-15,Dubai Port,Clear,0
+2023-06-15,Singapore Port,Clear,0
+2023-06-16,Mumbai Port,Clear,0
+2023-06-16,Shanghai Port,Clear,0
+2023-06-16,Los Angeles Port,Clear,0
+2023-06-16,Rotterdam Port,Clear,0
+2023-06-16,Dubai Port,Clear,0
+2023-06-16,Singapore Port,Clear,0
+2023-06-17,Mumbai Port,Clear,0
+2023-06-17,Shanghai Port,Clear,0
+2023-06-17,Los Angeles Port,Clear,0
+2023-06-17,Rotterdam Port,Rain,1
+2023-06-17,Dubai Port,Clear,0
+2023-06-17,Singapore Port,Rain,1
+2023-06-18,Mumbai Port,Heavy Rain,3
+2023-06-18,Shanghai Port,Clear,0
+2023-06-18,Los Angeles Port,Clear,0
+2023-06-18,Rotterdam Port,Heavy Rain,3
+2023-06-18,Dubai Port,Clear,0
+2023-06-18,Singapore Port,Fog,4
+2023-06-19,Mumbai Port,Clear,0
+2023-06-19,Shanghai Port,Clear,0
+2023-06-19,Los Angeles Port,Clear,0
+2023-06-19,Rotterdam Port,Clear,0
+2023-06-19,Dubai Port,Clear,0
+2023-06-19,Singapore Port,Fog,4
+2023-06-20,Mumbai Port,Clear,0
+2023-06-20,Shanghai Port,Clear,0
+2023-06-20,Los Angeles Port,Clear,0
+2023-06-20,Rotterdam Port,Clear,0
+2023-06-20,Dubai Port,Clear,0
+2023-06-20,Singapore Port,Heavy Rain,3
+2023-06-21,Mumbai Port,Clear,0
+2023-06-21,Shanghai Port,Clear,0
+2023-06-21,Los Angeles Port,Clear,0
+2023-06-21,Rotterdam Port,Clear,0
+2023-06-21,Dubai Port,Storm,7
+2023-06-21,Singapore Port,Clear,0
+2023-06-22,Mumbai Port,Clear,0
+2023-06-22,Shanghai Port,Clear,0
+2023-06-22,Los Angeles Port,Heavy Rain,3
+2023-06-22,Rotterdam Port,Clear,0
+2023-06-22,Dubai Port,Clear,0
+2023-06-22,Singapore Port,Clear,0
+2023-06-23,Mumbai Port,Clear,0
+2023-06-23,Shanghai Port,Clear,0
+2023-06-23,Los Angeles Port,Heavy Rain,3
+2023-06-23,Rotterdam Port,Clear,0
+2023-06-23,Dubai Port,Clear,0
+2023-06-23,Singapore Port,Clear,0
+2023-06-24,Mumbai Port,Clear,0
+2023-06-24,Shanghai Port,Clear,0
+2023-06-24,Los Angeles Port,Fog,4
+2023-06-24,Rotterdam Port,Clear,0
+2023-06-24,Dubai Port,Clear,0
+2023-06-24,Singapore Port,Clear,0
+2023-06-25,Mumbai Port,Clear,0
+2023-06-25,Shanghai Port,Clear,0
+2023-06-25,Los Angeles Port,Clear,0
+2023-06-25,Rotterdam Port,Heavy Rain,3
+2023-06-25,Dubai Port,Clear,0
+2023-06-25,Singapore Port,Clear,0
+2023-06-26,Mumbai Port,Clear,0
+2023-06-26,Shanghai Port,Clear,0
+2023-06-26,Los Angeles Port,Heavy Rain,3
+2023-06-26,Rotterdam Port,Clear,0
+2023-06-26,Dubai Port,Clear,0
+2023-06-26,Singapore Port,Clear,0
+2023-06-27,Mumbai Port,Clear,0
+2023-06-27,Shanghai Port,Clear,0
+2023-06-27,Los Angeles Port,Clear,0
+2023-06-27,Rotterdam Port,Fog,4
+2023-06-27,Dubai Port,Clear,0
+2023-06-27,Singapore Port,Clear,0
+2023-06-28,Mumbai Port,Clear,0
+2023-06-28,Shanghai Port,Clear,0
+2023-06-28,Los Angeles Port,Cyclone,10
+2023-06-28,Rotterdam Port,Clear,0
+2023-06-28,Dubai Port,Clear,0
+2023-06-28,Singapore Port,Clear,0
+2023-06-29,Mumbai Port,Clear,0
+2023-06-29,Shanghai Port,Clear,0
+2023-06-29,Los Angeles Port,Clear,0
+2023-06-29,Rotterdam Port,Clear,0
+2023-06-29,Dubai Port,Clear,0
+2023-06-29,Singapore Port,Clear,0
+2023-06-30,Mumbai Port,Clear,0
+2023-06-30,Shanghai Port,Clear,0
+2023-06-30,Los Angeles Port,Clear,0
+2023-06-30,Rotterdam Port,Clear,0
+2023-06-30,Dubai Port,Clear,0
+2023-06-30,Singapore Port,Clear,0
+2023-07-01,Mumbai Port,Clear,0
+2023-07-01,Shanghai Port,Clear,0
+2023-07-01,Los Angeles Port,Clear,0
+2023-07-01,Rotterdam Port,Clear,0
+2023-07-01,Dubai Port,Clear,0
+2023-07-01,Singapore Port,Clear,0
+2023-07-02,Mumbai Port,Clear,0
+2023-07-02,Shanghai Port,Clear,0
+2023-07-02,Los Angeles Port,Clear,0
+2023-07-02,Rotterdam Port,Clear,0
+2023-07-02,Dubai Port,Clear,0
+2023-07-02,Singapore Port,Rain,1
+2023-07-03,Mumbai Port,Rain,1
+2023-07-03,Shanghai Port,Clear,0
+2023-07-03,Los Angeles Port,Clear,0
+2023-07-03,Rotterdam Port,Clear,0
+2023-07-03,Dubai Port,Clear,0
+2023-07-03,Singapore Port,Heavy Rain,3
+2023-07-04,Mumbai Port,Clear,0
+2023-07-04,Shanghai Port,Clear,0
+2023-07-04,Los Angeles Port,Heavy Rain,3
+2023-07-04,Rotterdam Port,Clear,0
+2023-07-04,Dubai Port,Clear,0
+2023-07-04,Singapore Port,Clear,0
+2023-07-05,Mumbai Port,Clear,0
+2023-07-05,Shanghai Port,Clear,0
+2023-07-05,Los Angeles Port,Clear,0
+2023-07-05,Rotterdam Port,Clear,0
+2023-07-05,Dubai Port,Clear,0
+2023-07-05,Singapore Port,Cyclone,10
+2023-07-06,Mumbai Port,Rain,1
+2023-07-06,Shanghai Port,Clear,0
+2023-07-06,Los Angeles Port,Clear,0
+2023-07-06,Rotterdam Port,Clear,0
+2023-07-06,Dubai Port,Clear,0
+2023-07-06,Singapore Port,Clear,0
+2023-07-07,Mumbai Port,Clear,0
+2023-07-07,Shanghai Port,Clear,0
+2023-07-07,Los Angeles Port,Clear,0
+2023-07-07,Rotterdam Port,Clear,0
+2023-07-07,Dubai Port,Clear,0
+2023-07-07,Singapore Port,Clear,0
+2023-07-08,Mumbai Port,Rain,1
+2023-07-08,Shanghai Port,Clear,0
+2023-07-08,Los Angeles Port,Clear,0
+2023-07-08,Rotterdam Port,Clear,0
+2023-07-08,Dubai Port,Clear,0
+2023-07-08,Singapore Port,Clear,0
+2023-07-09,Mumbai Port,Clear,0
+2023-07-09,Shanghai Port,Clear,0
+2023-07-09,Los Angeles Port,Clear,0
+2023-07-09,Rotterdam Port,Heavy Rain,3
+2023-07-09,Dubai Port,Fog,4
+2023-07-09,Singapore Port,Heavy Rain,3
+2023-07-10,Mumbai Port,Clear,0
+2023-07-10,Shanghai Port,Clear,0
+2023-07-10,Los Angeles Port,Clear,0
+2023-07-10,Rotterdam Port,Clear,0
+2023-07-10,Dubai Port,Clear,0
+2023-07-10,Singapore Port,Clear,0
+2023-07-11,Mumbai Port,Rain,1
+2023-07-11,Shanghai Port,Clear,0
+2023-07-11,Los Angeles Port,Clear,0
+2023-07-11,Rotterdam Port,Clear,0
+2023-07-11,Dubai Port,Heavy Rain,3
+2023-07-11,Singapore Port,Clear,0
+2023-07-12,Mumbai Port,Heavy Rain,3
+2023-07-12,Shanghai Port,Clear,0
+2023-07-12,Los Angeles Port,Rain,1
+2023-07-12,Rotterdam Port,Clear,0
+2023-07-12,Dubai Port,Clear,0
+2023-07-12,Singapore Port,Clear,0
+2023-07-13,Mumbai Port,Clear,0
+2023-07-13,Shanghai Port,Clear,0
+2023-07-13,Los Angeles Port,Clear,0
+2023-07-13,Rotterdam Port,Clear,0
+2023-07-13,Dubai Port,Heavy Rain,3
+2023-07-13,Singapore Port,Clear,0
+2023-07-14,Mumbai Port,Clear,0
+2023-07-14,Shanghai Port,Clear,0
+2023-07-14,Los Angeles Port,Clear,0
+2023-07-14,Rotterdam Port,Rain,1
+2023-07-14,Dubai Port,Clear,0
+2023-07-14,Singapore Port,Clear,0
+2023-07-15,Mumbai Port,Clear,0
+2023-07-15,Shanghai Port,Rain,1
+2023-07-15,Los Angeles Port,Clear,0
+2023-07-15,Rotterdam Port,Clear,0
+2023-07-15,Dubai Port,Clear,0
+2023-07-15,Singapore Port,Clear,0
+2023-07-16,Mumbai Port,Clear,0
+2023-07-16,Shanghai Port,Clear,0
+2023-07-16,Los Angeles Port,Clear,0
+2023-07-16,Rotterdam Port,Clear,0
+2023-07-16,Dubai Port,Clear,0
+2023-07-16,Singapore Port,Clear,0
+2023-07-17,Mumbai Port,Clear,0
+2023-07-17,Shanghai Port,Clear,0
+2023-07-17,Los Angeles Port,Clear,0
+2023-07-17,Rotterdam Port,Clear,0
+2023-07-17,Dubai Port,Clear,0
+2023-07-17,Singapore Port,Clear,0
+2023-07-18,Mumbai Port,Clear,0
+2023-07-18,Shanghai Port,Rain,1
+2023-07-18,Los Angeles Port,Clear,0
+2023-07-18,Rotterdam Port,Clear,0
+2023-07-18,Dubai Port,Clear,0
+2023-07-18,Singapore Port,Clear,0
+2023-07-19,Mumbai Port,Clear,0
+2023-07-19,Shanghai Port,Clear,0
+2023-07-19,Los Angeles Port,Clear,0
+2023-07-19,Rotterdam Port,Clear,0
+2023-07-19,Dubai Port,Heavy Rain,3
+2023-07-19,Singapore Port,Heavy Rain,3
+2023-07-20,Mumbai Port,Clear,0
+2023-07-20,Shanghai Port,Clear,0
+2023-07-20,Los Angeles Port,Clear,0
+2023-07-20,Rotterdam Port,Heavy Rain,3
+2023-07-20,Dubai Port,Clear,0
+2023-07-20,Singapore Port,Heavy Rain,3
+2023-07-21,Mumbai Port,Clear,0
+2023-07-21,Shanghai Port,Clear,0
+2023-07-21,Los Angeles Port,Clear,0
+2023-07-21,Rotterdam Port,Clear,0
+2023-07-21,Dubai Port,Clear,0
+2023-07-21,Singapore Port,Heavy Rain,3
+2023-07-22,Mumbai Port,Clear,0
+2023-07-22,Shanghai Port,Clear,0
+2023-07-22,Los Angeles Port,Clear,0
+2023-07-22,Rotterdam Port,Clear,0
+2023-07-22,Dubai Port,Clear,0
+2023-07-22,Singapore Port,Clear,0
+2023-07-23,Mumbai Port,Clear,0
+2023-07-23,Shanghai Port,Clear,0
+2023-07-23,Los Angeles Port,Clear,0
+2023-07-23,Rotterdam Port,Fog,4
+2023-07-23,Dubai Port,Heavy Rain,3
+2023-07-23,Singapore Port,Heavy Rain,3
+2023-07-24,Mumbai Port,Clear,0
+2023-07-24,Shanghai Port,Clear,0
+2023-07-24,Los Angeles Port,Clear,0
+2023-07-24,Rotterdam Port,Clear,0
+2023-07-24,Dubai Port,Clear,0
+2023-07-24,Singapore Port,Clear,0
+2023-07-25,Mumbai Port,Heavy Rain,3
+2023-07-25,Shanghai Port,Clear,0
+2023-07-25,Los Angeles Port,Clear,0
+2023-07-25,Rotterdam Port,Heavy Rain,3
+2023-07-25,Dubai Port,Clear,0
+2023-07-25,Singapore Port,Clear,0
+2023-07-26,Mumbai Port,Clear,0
+2023-07-26,Shanghai Port,Clear,0
+2023-07-26,Los Angeles Port,Fog,4
+2023-07-26,Rotterdam Port,Clear,0
+2023-07-26,Dubai Port,Clear,0
+2023-07-26,Singapore Port,Clear,0
+2023-07-27,Mumbai Port,Clear,0
+2023-07-27,Shanghai Port,Clear,0
+2023-07-27,Los Angeles Port,Clear,0
+2023-07-27,Rotterdam Port,Clear,0
+2023-07-27,Dubai Port,Clear,0
+2023-07-27,Singapore Port,Clear,0
+2023-07-28,Mumbai Port,Clear,0
+2023-07-28,Shanghai Port,Fog,4
+2023-07-28,Los Angeles Port,Clear,0
+2023-07-28,Rotterdam Port,Clear,0
+2023-07-28,Dubai Port,Clear,0
+2023-07-28,Singapore Port,Heavy Rain,3
+2023-07-29,Mumbai Port,Clear,0
+2023-07-29,Shanghai Port,Clear,0
+2023-07-29,Los Angeles Port,Clear,0
+2023-07-29,Rotterdam Port,Clear,0
+2023-07-29,Dubai Port,Clear,0
+2023-07-29,Singapore Port,Clear,0
+2023-07-30,Mumbai Port,Clear,0
+2023-07-30,Shanghai Port,Clear,0
+2023-07-30,Los Angeles Port,Clear,0
+2023-07-30,Rotterdam Port,Clear,0
+2023-07-30,Dubai Port,Clear,0
+2023-07-30,Singapore Port,Clear,0
+2023-07-31,Mumbai Port,Heavy Rain,3
+2023-07-31,Shanghai Port,Clear,0
+2023-07-31,Los Angeles Port,Clear,0
+2023-07-31,Rotterdam Port,Clear,0
+2023-07-31,Dubai Port,Clear,0
+2023-07-31,Singapore Port,Clear,0
+2023-08-01,Mumbai Port,Heavy Rain,3
+2023-08-01,Shanghai Port,Clear,0
+2023-08-01,Los Angeles Port,Clear,0
+2023-08-01,Rotterdam Port,Clear,0
+2023-08-01,Dubai Port,Clear,0
+2023-08-01,Singapore Port,Clear,0
+2023-08-02,Mumbai Port,Heavy Rain,3
+2023-08-02,Shanghai Port,Clear,0
+2023-08-02,Los Angeles Port,Clear,0
+2023-08-02,Rotterdam Port,Clear,0
+2023-08-02,Dubai Port,Heavy Rain,3
+2023-08-02,Singapore Port,Clear,0
+2023-08-03,Mumbai Port,Clear,0
+2023-08-03,Shanghai Port,Clear,0
+2023-08-03,Los Angeles Port,Clear,0
+2023-08-03,Rotterdam Port,Clear,0
+2023-08-03,Dubai Port,Clear,0
+2023-08-03,Singapore Port,Rain,1
+2023-08-04,Mumbai Port,Clear,0
+2023-08-04,Shanghai Port,Clear,0
+2023-08-04,Los Angeles Port,Clear,0
+2023-08-04,Rotterdam Port,Clear,0
+2023-08-04,Dubai Port,Clear,0
+2023-08-04,Singapore Port,Clear,0
+2023-08-05,Mumbai Port,Clear,0
+2023-08-05,Shanghai Port,Clear,0
+2023-08-05,Los Angeles Port,Storm,7
+2023-08-05,Rotterdam Port,Clear,0
+2023-08-05,Dubai Port,Clear,0
+2023-08-05,Singapore Port,Clear,0
+2023-08-06,Mumbai Port,Clear,0
+2023-08-06,Shanghai Port,Clear,0
+2023-08-06,Los Angeles Port,Rain,1
+2023-08-06,Rotterdam Port,Clear,0
+2023-08-06,Dubai Port,Heavy Rain,3
+2023-08-06,Singapore Port,Clear,0
+2023-08-07,Mumbai Port,Cyclone,10
+2023-08-07,Shanghai Port,Clear,0
+2023-08-07,Los Angeles Port,Clear,0
+2023-08-07,Rotterdam Port,Rain,1
+2023-08-07,Dubai Port,Clear,0
+2023-08-07,Singapore Port,Clear,0
+2023-08-08,Mumbai Port,Clear,0
+2023-08-08,Shanghai Port,Heavy Rain,3
+2023-08-08,Los Angeles Port,Clear,0
+2023-08-08,Rotterdam Port,Clear,0
+2023-08-08,Dubai Port,Clear,0
+2023-08-08,Singapore Port,Clear,0
+2023-08-09,Mumbai Port,Clear,0
+2023-08-09,Shanghai Port,Clear,0
+2023-08-09,Los Angeles Port,Clear,0
+2023-08-09,Rotterdam Port,Clear,0
+2023-08-09,Dubai Port,Clear,0
+2023-08-09,Singapore Port,Clear,0
+2023-08-10,Mumbai Port,Clear,0
+2023-08-10,Shanghai Port,Clear,0
+2023-08-10,Los Angeles Port,Fog,4
+2023-08-10,Rotterdam Port,Clear,0
+2023-08-10,Dubai Port,Clear,0
+2023-08-10,Singapore Port,Clear,0
+2023-08-11,Mumbai Port,Clear,0
+2023-08-11,Shanghai Port,Clear,0
+2023-08-11,Los Angeles Port,Clear,0
+2023-08-11,Rotterdam Port,Clear,0
+2023-08-11,Dubai Port,Clear,0
+2023-08-11,Singapore Port,Clear,0
+2023-08-12,Mumbai Port,Clear,0
+2023-08-12,Shanghai Port,Clear,0
+2023-08-12,Los Angeles Port,Clear,0
+2023-08-12,Rotterdam Port,Clear,0
+2023-08-12,Dubai Port,Clear,0
+2023-08-12,Singapore Port,Clear,0
+2023-08-13,Mumbai Port,Clear,0
+2023-08-13,Shanghai Port,Clear,0
+2023-08-13,Los Angeles Port,Clear,0
+2023-08-13,Rotterdam Port,Clear,0
+2023-08-13,Dubai Port,Clear,0
+2023-08-13,Singapore Port,Storm,7
+2023-08-14,Mumbai Port,Clear,0
+2023-08-14,Shanghai Port,Heavy Rain,3
+2023-08-14,Los Angeles Port,Clear,0
+2023-08-14,Rotterdam Port,Cyclone,10
+2023-08-14,Dubai Port,Heavy Rain,3
+2023-08-14,Singapore Port,Clear,0
+2023-08-15,Mumbai Port,Clear,0
+2023-08-15,Shanghai Port,Clear,0
+2023-08-15,Los Angeles Port,Fog,4
+2023-08-15,Rotterdam Port,Clear,0
+2023-08-15,Dubai Port,Rain,1
+2023-08-15,Singapore Port,Heavy Rain,3
+2023-08-16,Mumbai Port,Clear,0
+2023-08-16,Shanghai Port,Clear,0
+2023-08-16,Los Angeles Port,Clear,0
+2023-08-16,Rotterdam Port,Clear,0
+2023-08-16,Dubai Port,Clear,0
+2023-08-16,Singapore Port,Clear,0
+2023-08-17,Mumbai Port,Rain,1
+2023-08-17,Shanghai Port,Clear,0
+2023-08-17,Los Angeles Port,Clear,0
+2023-08-17,Rotterdam Port,Clear,0
+2023-08-17,Dubai Port,Clear,0
+2023-08-17,Singapore Port,Clear,0
+2023-08-18,Mumbai Port,Fog,4
+2023-08-18,Shanghai Port,Clear,0
+2023-08-18,Los Angeles Port,Clear,0
+2023-08-18,Rotterdam Port,Clear,0
+2023-08-18,Dubai Port,Clear,0
+2023-08-18,Singapore Port,Fog,4
+2023-08-19,Mumbai Port,Heavy Rain,3
+2023-08-19,Shanghai Port,Rain,1
+2023-08-19,Los Angeles Port,Clear,0
+2023-08-19,Rotterdam Port,Clear,0
+2023-08-19,Dubai Port,Fog,4
+2023-08-19,Singapore Port,Clear,0
+2023-08-20,Mumbai Port,Heavy Rain,3
+2023-08-20,Shanghai Port,Fog,4
+2023-08-20,Los Angeles Port,Fog,4
+2023-08-20,Rotterdam Port,Clear,0
+2023-08-20,Dubai Port,Fog,4
+2023-08-20,Singapore Port,Fog,4
+2023-08-21,Mumbai Port,Heavy Rain,3
+2023-08-21,Shanghai Port,Clear,0
+2023-08-21,Los Angeles Port,Clear,0
+2023-08-21,Rotterdam Port,Clear,0
+2023-08-21,Dubai Port,Clear,0
+2023-08-21,Singapore Port,Clear,0
+2023-08-22,Mumbai Port,Clear,0
+2023-08-22,Shanghai Port,Clear,0
+2023-08-22,Los Angeles Port,Clear,0
+2023-08-22,Rotterdam Port,Clear,0
+2023-08-22,Dubai Port,Clear,0
+2023-08-22,Singapore Port,Clear,0
+2023-08-23,Mumbai Port,Clear,0
+2023-08-23,Shanghai Port,Clear,0
+2023-08-23,Los Angeles Port,Rain,1
+2023-08-23,Rotterdam Port,Clear,0
+2023-08-23,Dubai Port,Rain,1
+2023-08-23,Singapore Port,Clear,0
+2023-08-24,Mumbai Port,Clear,0
+2023-08-24,Shanghai Port,Clear,0
+2023-08-24,Los Angeles Port,Clear,0
+2023-08-24,Rotterdam Port,Clear,0
+2023-08-24,Dubai Port,Rain,1
+2023-08-24,Singapore Port,Clear,0
+2023-08-25,Mumbai Port,Clear,0
+2023-08-25,Shanghai Port,Clear,0
+2023-08-25,Los Angeles Port,Clear,0
+2023-08-25,Rotterdam Port,Clear,0
+2023-08-25,Dubai Port,Clear,0
+2023-08-25,Singapore Port,Clear,0
+2023-08-26,Mumbai Port,Heavy Rain,3
+2023-08-26,Shanghai Port,Clear,0
+2023-08-26,Los Angeles Port,Clear,0
+2023-08-26,Rotterdam Port,Clear,0
+2023-08-26,Dubai Port,Fog,4
+2023-08-26,Singapore Port,Clear,0
+2023-08-27,Mumbai Port,Heavy Rain,3
+2023-08-27,Shanghai Port,Clear,0
+2023-08-27,Los Angeles Port,Clear,0
+2023-08-27,Rotterdam Port,Clear,0
+2023-08-27,Dubai Port,Clear,0
+2023-08-27,Singapore Port,Clear,0
+2023-08-28,Mumbai Port,Clear,0
+2023-08-28,Shanghai Port,Clear,0
+2023-08-28,Los Angeles Port,Clear,0
+2023-08-28,Rotterdam Port,Clear,0
+2023-08-28,Dubai Port,Clear,0
+2023-08-28,Singapore Port,Clear,0
+2023-08-29,Mumbai Port,Clear,0
+2023-08-29,Shanghai Port,Clear,0
+2023-08-29,Los Angeles Port,Clear,0
+2023-08-29,Rotterdam Port,Clear,0
+2023-08-29,Dubai Port,Clear,0
+2023-08-29,Singapore Port,Clear,0
+2023-08-30,Mumbai Port,Clear,0
+2023-08-30,Shanghai Port,Clear,0
+2023-08-30,Los Angeles Port,Clear,0
+2023-08-30,Rotterdam Port,Rain,1
+2023-08-30,Dubai Port,Clear,0
+2023-08-30,Singapore Port,Clear,0
+2023-08-31,Mumbai Port,Clear,0
+2023-08-31,Shanghai Port,Clear,0
+2023-08-31,Los Angeles Port,Clear,0
+2023-08-31,Rotterdam Port,Clear,0
+2023-08-31,Dubai Port,Clear,0
+2023-08-31,Singapore Port,Clear,0
+2023-09-01,Mumbai Port,Clear,0
+2023-09-01,Shanghai Port,Clear,0
+2023-09-01,Los Angeles Port,Rain,1
+2023-09-01,Rotterdam Port,Clear,0
+2023-09-01,Dubai Port,Clear,0
+2023-09-01,Singapore Port,Clear,0
+2023-09-02,Mumbai Port,Clear,0
+2023-09-02,Shanghai Port,Clear,0
+2023-09-02,Los Angeles Port,Clear,0
+2023-09-02,Rotterdam Port,Clear,0
+2023-09-02,Dubai Port,Clear,0
+2023-09-02,Singapore Port,Clear,0
+2023-09-03,Mumbai Port,Clear,0
+2023-09-03,Shanghai Port,Clear,0
+2023-09-03,Los Angeles Port,Clear,0
+2023-09-03,Rotterdam Port,Clear,0
+2023-09-03,Dubai Port,Clear,0
+2023-09-03,Singapore Port,Clear,0
+2023-09-04,Mumbai Port,Clear,0
+2023-09-04,Shanghai Port,Clear,0
+2023-09-04,Los Angeles Port,Clear,0
+2023-09-04,Rotterdam Port,Heavy Rain,3
+2023-09-04,Dubai Port,Clear,0
+2023-09-04,Singapore Port,Clear,0
+2023-09-05,Mumbai Port,Clear,0
+2023-09-05,Shanghai Port,Clear,0
+2023-09-05,Los Angeles Port,Clear,0
+2023-09-05,Rotterdam Port,Clear,0
+2023-09-05,Dubai Port,Clear,0
+2023-09-05,Singapore Port,Clear,0
+2023-09-06,Mumbai Port,Clear,0
+2023-09-06,Shanghai Port,Clear,0
+2023-09-06,Los Angeles Port,Clear,0
+2023-09-06,Rotterdam Port,Clear,0
+2023-09-06,Dubai Port,Clear,0
+2023-09-06,Singapore Port,Clear,0
+2023-09-07,Mumbai Port,Clear,0
+2023-09-07,Shanghai Port,Heavy Rain,3
+2023-09-07,Los Angeles Port,Clear,0
+2023-09-07,Rotterdam Port,Clear,0
+2023-09-07,Dubai Port,Clear,0
+2023-09-07,Singapore Port,Clear,0
+2023-09-08,Mumbai Port,Clear,0
+2023-09-08,Shanghai Port,Fog,4
+2023-09-08,Los Angeles Port,Clear,0
+2023-09-08,Rotterdam Port,Clear,0
+2023-09-08,Dubai Port,Clear,0
+2023-09-08,Singapore Port,Clear,0
+2023-09-09,Mumbai Port,Fog,4
+2023-09-09,Shanghai Port,Clear,0
+2023-09-09,Los Angeles Port,Clear,0
+2023-09-09,Rotterdam Port,Clear,0
+2023-09-09,Dubai Port,Clear,0
+2023-09-09,Singapore Port,Clear,0
+2023-09-10,Mumbai Port,Clear,0
+2023-09-10,Shanghai Port,Rain,1
+2023-09-10,Los Angeles Port,Clear,0
+2023-09-10,Rotterdam Port,Clear,0
+2023-09-10,Dubai Port,Clear,0
+2023-09-10,Singapore Port,Clear,0
+2023-09-11,Mumbai Port,Clear,0
+2023-09-11,Shanghai Port,Heavy Rain,3
+2023-09-11,Los Angeles Port,Fog,4
+2023-09-11,Rotterdam Port,Clear,0
+2023-09-11,Dubai Port,Clear,0
+2023-09-11,Singapore Port,Rain,1
+2023-09-12,Mumbai Port,Rain,1
+2023-09-12,Shanghai Port,Clear,0
+2023-09-12,Los Angeles Port,Clear,0
+2023-09-12,Rotterdam Port,Clear,0
+2023-09-12,Dubai Port,Fog,4
+2023-09-12,Singapore Port,Clear,0
+2023-09-13,Mumbai Port,Heavy Rain,3
+2023-09-13,Shanghai Port,Clear,0
+2023-09-13,Los Angeles Port,Clear,0
+2023-09-13,Rotterdam Port,Clear,0
+2023-09-13,Dubai Port,Clear,0
+2023-09-13,Singapore Port,Rain,1
+2023-09-14,Mumbai Port,Fog,4
+2023-09-14,Shanghai Port,Clear,0
+2023-09-14,Los Angeles Port,Clear,0
+2023-09-14,Rotterdam Port,Clear,0
+2023-09-14,Dubai Port,Clear,0
+2023-09-14,Singapore Port,Clear,0
+2023-09-15,Mumbai Port,Clear,0
+2023-09-15,Shanghai Port,Clear,0
+2023-09-15,Los Angeles Port,Heavy Rain,3
+2023-09-15,Rotterdam Port,Clear,0
+2023-09-15,Dubai Port,Clear,0
+2023-09-15,Singapore Port,Clear,0
+2023-09-16,Mumbai Port,Clear,0
+2023-09-16,Shanghai Port,Clear,0
+2023-09-16,Los Angeles Port,Clear,0
+2023-09-16,Rotterdam Port,Rain,1
+2023-09-16,Dubai Port,Clear,0
+2023-09-16,Singapore Port,Clear,0
+2023-09-17,Mumbai Port,Clear,0
+2023-09-17,Shanghai Port,Clear,0
+2023-09-17,Los Angeles Port,Clear,0
+2023-09-17,Rotterdam Port,Clear,0
+2023-09-17,Dubai Port,Clear,0
+2023-09-17,Singapore Port,Clear,0
+2023-09-18,Mumbai Port,Clear,0
+2023-09-18,Shanghai Port,Clear,0
+2023-09-18,Los Angeles Port,Clear,0
+2023-09-18,Rotterdam Port,Clear,0
+2023-09-18,Dubai Port,Clear,0
+2023-09-18,Singapore Port,Clear,0
+2023-09-19,Mumbai Port,Clear,0
+2023-09-19,Shanghai Port,Clear,0
+2023-09-19,Los Angeles Port,Clear,0
+2023-09-19,Rotterdam Port,Clear,0
+2023-09-19,Dubai Port,Clear,0
+2023-09-19,Singapore Port,Heavy Rain,3
+2023-09-20,Mumbai Port,Clear,0
+2023-09-20,Shanghai Port,Clear,0
+2023-09-20,Los Angeles Port,Clear,0
+2023-09-20,Rotterdam Port,Clear,0
+2023-09-20,Dubai Port,Clear,0
+2023-09-20,Singapore Port,Clear,0
+2023-09-21,Mumbai Port,Clear,0
+2023-09-21,Shanghai Port,Clear,0
+2023-09-21,Los Angeles Port,Clear,0
+2023-09-21,Rotterdam Port,Clear,0
+2023-09-21,Dubai Port,Clear,0
+2023-09-21,Singapore Port,Clear,0
+2023-09-22,Mumbai Port,Clear,0
+2023-09-22,Shanghai Port,Cyclone,10
+2023-09-22,Los Angeles Port,Clear,0
+2023-09-22,Rotterdam Port,Clear,0
+2023-09-22,Dubai Port,Clear,0
+2023-09-22,Singapore Port,Clear,0
+2023-09-23,Mumbai Port,Clear,0
+2023-09-23,Shanghai Port,Clear,0
+2023-09-23,Los Angeles Port,Clear,0
+2023-09-23,Rotterdam Port,Clear,0
+2023-09-23,Dubai Port,Rain,1
+2023-09-23,Singapore Port,Clear,0
+2023-09-24,Mumbai Port,Clear,0
+2023-09-24,Shanghai Port,Clear,0
+2023-09-24,Los Angeles Port,Clear,0
+2023-09-24,Rotterdam Port,Clear,0
+2023-09-24,Dubai Port,Clear,0
+2023-09-24,Singapore Port,Clear,0
+2023-09-25,Mumbai Port,Clear,0
+2023-09-25,Shanghai Port,Clear,0
+2023-09-25,Los Angeles Port,Cyclone,10
+2023-09-25,Rotterdam Port,Clear,0
+2023-09-25,Dubai Port,Clear,0
+2023-09-25,Singapore Port,Clear,0
+2023-09-26,Mumbai Port,Rain,1
+2023-09-26,Shanghai Port,Clear,0
+2023-09-26,Los Angeles Port,Clear,0
+2023-09-26,Rotterdam Port,Clear,0
+2023-09-26,Dubai Port,Heavy Rain,3
+2023-09-26,Singapore Port,Clear,0
+2023-09-27,Mumbai Port,Clear,0
+2023-09-27,Shanghai Port,Clear,0
+2023-09-27,Los Angeles Port,Clear,0
+2023-09-27,Rotterdam Port,Clear,0
+2023-09-27,Dubai Port,Clear,0
+2023-09-27,Singapore Port,Rain,1
+2023-09-28,Mumbai Port,Clear,0
+2023-09-28,Shanghai Port,Clear,0
+2023-09-28,Los Angeles Port,Clear,0
+2023-09-28,Rotterdam Port,Clear,0
+2023-09-28,Dubai Port,Fog,4
+2023-09-28,Singapore Port,Clear,0
+2023-09-29,Mumbai Port,Clear,0
+2023-09-29,Shanghai Port,Clear,0
+2023-09-29,Los Angeles Port,Clear,0
+2023-09-29,Rotterdam Port,Clear,0
+2023-09-29,Dubai Port,Clear,0
+2023-09-29,Singapore Port,Clear,0
+2023-09-30,Mumbai Port,Clear,0
+2023-09-30,Shanghai Port,Clear,0
+2023-09-30,Los Angeles Port,Clear,0
+2023-09-30,Rotterdam Port,Clear,0
+2023-09-30,Dubai Port,Clear,0
+2023-09-30,Singapore Port,Clear,0
+2023-10-01,Mumbai Port,Clear,0
+2023-10-01,Shanghai Port,Clear,0
+2023-10-01,Los Angeles Port,Clear,0
+2023-10-01,Rotterdam Port,Clear,0
+2023-10-01,Dubai Port,Clear,0
+2023-10-01,Singapore Port,Clear,0
+2023-10-02,Mumbai Port,Clear,0
+2023-10-02,Shanghai Port,Clear,0
+2023-10-02,Los Angeles Port,Clear,0
+2023-10-02,Rotterdam Port,Clear,0
+2023-10-02,Dubai Port,Clear,0
+2023-10-02,Singapore Port,Clear,0
+2023-10-03,Mumbai Port,Clear,0
+2023-10-03,Shanghai Port,Heavy Rain,3
+2023-10-03,Los Angeles Port,Clear,0
+2023-10-03,Rotterdam Port,Clear,0
+2023-10-03,Dubai Port,Rain,1
+2023-10-03,Singapore Port,Clear,0
+2023-10-04,Mumbai Port,Clear,0
+2023-10-04,Shanghai Port,Rain,1
+2023-10-04,Los Angeles Port,Clear,0
+2023-10-04,Rotterdam Port,Clear,0
+2023-10-04,Dubai Port,Clear,0
+2023-10-04,Singapore Port,Clear,0
+2023-10-05,Mumbai Port,Fog,4
+2023-10-05,Shanghai Port,Clear,0
+2023-10-05,Los Angeles Port,Heavy Rain,3
+2023-10-05,Rotterdam Port,Clear,0
+2023-10-05,Dubai Port,Clear,0
+2023-10-05,Singapore Port,Clear,0
+2023-10-06,Mumbai Port,Clear,0
+2023-10-06,Shanghai Port,Clear,0
+2023-10-06,Los Angeles Port,Clear,0
+2023-10-06,Rotterdam Port,Rain,1
+2023-10-06,Dubai Port,Clear,0
+2023-10-06,Singapore Port,Clear,0
+2023-10-07,Mumbai Port,Cyclone,10
+2023-10-07,Shanghai Port,Clear,0
+2023-10-07,Los Angeles Port,Clear,0
+2023-10-07,Rotterdam Port,Clear,0
+2023-10-07,Dubai Port,Clear,0
+2023-10-07,Singapore Port,Clear,0
+2023-10-08,Mumbai Port,Clear,0
+2023-10-08,Shanghai Port,Clear,0
+2023-10-08,Los Angeles Port,Clear,0
+2023-10-08,Rotterdam Port,Clear,0
+2023-10-08,Dubai Port,Fog,4
+2023-10-08,Singapore Port,Clear,0
+2023-10-09,Mumbai Port,Clear,0
+2023-10-09,Shanghai Port,Clear,0
+2023-10-09,Los Angeles Port,Clear,0
+2023-10-09,Rotterdam Port,Clear,0
+2023-10-09,Dubai Port,Clear,0
+2023-10-09,Singapore Port,Clear,0
+2023-10-10,Mumbai Port,Clear,0
+2023-10-10,Shanghai Port,Clear,0
+2023-10-10,Los Angeles Port,Fog,4
+2023-10-10,Rotterdam Port,Clear,0
+2023-10-10,Dubai Port,Rain,1
+2023-10-10,Singapore Port,Clear,0
+2023-10-11,Mumbai Port,Storm,7
+2023-10-11,Shanghai Port,Clear,0
+2023-10-11,Los Angeles Port,Clear,0
+2023-10-11,Rotterdam Port,Clear,0
+2023-10-11,Dubai Port,Clear,0
+2023-10-11,Singapore Port,Clear,0
+2023-10-12,Mumbai Port,Heavy Rain,3
+2023-10-12,Shanghai Port,Clear,0
+2023-10-12,Los Angeles Port,Heavy Rain,3
+2023-10-12,Rotterdam Port,Clear,0
+2023-10-12,Dubai Port,Clear,0
+2023-10-12,Singapore Port,Clear,0
+2023-10-13,Mumbai Port,Clear,0
+2023-10-13,Shanghai Port,Clear,0
+2023-10-13,Los Angeles Port,Clear,0
+2023-10-13,Rotterdam Port,Clear,0
+2023-10-13,Dubai Port,Clear,0
+2023-10-13,Singapore Port,Clear,0
+2023-10-14,Mumbai Port,Clear,0
+2023-10-14,Shanghai Port,Clear,0
+2023-10-14,Los Angeles Port,Fog,4
+2023-10-14,Rotterdam Port,Clear,0
+2023-10-14,Dubai Port,Clear,0
+2023-10-14,Singapore Port,Clear,0
+2023-10-15,Mumbai Port,Clear,0
+2023-10-15,Shanghai Port,Clear,0
+2023-10-15,Los Angeles Port,Fog,4
+2023-10-15,Rotterdam Port,Clear,0
+2023-10-15,Dubai Port,Clear,0
+2023-10-15,Singapore Port,Rain,1
+2023-10-16,Mumbai Port,Clear,0
+2023-10-16,Shanghai Port,Clear,0
+2023-10-16,Los Angeles Port,Clear,0
+2023-10-16,Rotterdam Port,Clear,0
+2023-10-16,Dubai Port,Clear,0
+2023-10-16,Singapore Port,Clear,0
+2023-10-17,Mumbai Port,Clear,0
+2023-10-17,Shanghai Port,Clear,0
+2023-10-17,Los Angeles Port,Clear,0
+2023-10-17,Rotterdam Port,Clear,0
+2023-10-17,Dubai Port,Clear,0
+2023-10-17,Singapore Port,Clear,0
+2023-10-18,Mumbai Port,Clear,0
+2023-10-18,Shanghai Port,Clear,0
+2023-10-18,Los Angeles Port,Clear,0
+2023-10-18,Rotterdam Port,Clear,0
+2023-10-18,Dubai Port,Clear,0
+2023-10-18,Singapore Port,Clear,0
+2023-10-19,Mumbai Port,Clear,0
+2023-10-19,Shanghai Port,Clear,0
+2023-10-19,Los Angeles Port,Clear,0
+2023-10-19,Rotterdam Port,Clear,0
+2023-10-19,Dubai Port,Clear,0
+2023-10-19,Singapore Port,Clear,0
+2023-10-20,Mumbai Port,Clear,0
+2023-10-20,Shanghai Port,Clear,0
+2023-10-20,Los Angeles Port,Clear,0
+2023-10-20,Rotterdam Port,Clear,0
+2023-10-20,Dubai Port,Clear,0
+2023-10-20,Singapore Port,Clear,0
+2023-10-21,Mumbai Port,Clear,0
+2023-10-21,Shanghai Port,Clear,0
+2023-10-21,Los Angeles Port,Fog,4
+2023-10-21,Rotterdam Port,Fog,4
+2023-10-21,Dubai Port,Heavy Rain,3
+2023-10-21,Singapore Port,Fog,4
+2023-10-22,Mumbai Port,Clear,0
+2023-10-22,Shanghai Port,Clear,0
+2023-10-22,Los Angeles Port,Rain,1
+2023-10-22,Rotterdam Port,Clear,0
+2023-10-22,Dubai Port,Clear,0
+2023-10-22,Singapore Port,Clear,0
+2023-10-23,Mumbai Port,Clear,0
+2023-10-23,Shanghai Port,Clear,0
+2023-10-23,Los Angeles Port,Clear,0
+2023-10-23,Rotterdam Port,Rain,1
+2023-10-23,Dubai Port,Clear,0
+2023-10-23,Singapore Port,Clear,0
+2023-10-24,Mumbai Port,Heavy Rain,3
+2023-10-24,Shanghai Port,Clear,0
+2023-10-24,Los Angeles Port,Clear,0
+2023-10-24,Rotterdam Port,Clear,0
+2023-10-24,Dubai Port,Clear,0
+2023-10-24,Singapore Port,Fog,4
+2023-10-25,Mumbai Port,Clear,0
+2023-10-25,Shanghai Port,Fog,4
+2023-10-25,Los Angeles Port,Clear,0
+2023-10-25,Rotterdam Port,Storm,7
+2023-10-25,Dubai Port,Fog,4
+2023-10-25,Singapore Port,Clear,0
+2023-10-26,Mumbai Port,Clear,0
+2023-10-26,Shanghai Port,Clear,0
+2023-10-26,Los Angeles Port,Heavy Rain,3
+2023-10-26,Rotterdam Port,Clear,0
+2023-10-26,Dubai Port,Clear,0
+2023-10-26,Singapore Port,Clear,0
+2023-10-27,Mumbai Port,Clear,0
+2023-10-27,Shanghai Port,Clear,0
+2023-10-27,Los Angeles Port,Clear,0
+2023-10-27,Rotterdam Port,Clear,0
+2023-10-27,Dubai Port,Clear,0
+2023-10-27,Singapore Port,Clear,0
+2023-10-28,Mumbai Port,Clear,0
+2023-10-28,Shanghai Port,Rain,1
+2023-10-28,Los Angeles Port,Clear,0
+2023-10-28,Rotterdam Port,Heavy Rain,3
+2023-10-28,Dubai Port,Clear,0
+2023-10-28,Singapore Port,Clear,0
+2023-10-29,Mumbai Port,Clear,0
+2023-10-29,Shanghai Port,Clear,0
+2023-10-29,Los Angeles Port,Fog,4
+2023-10-29,Rotterdam Port,Clear,0
+2023-10-29,Dubai Port,Clear,0
+2023-10-29,Singapore Port,Heavy Rain,3
+2023-10-30,Mumbai Port,Clear,0
+2023-10-30,Shanghai Port,Clear,0
+2023-10-30,Los Angeles Port,Clear,0
+2023-10-30,Rotterdam Port,Storm,7
+2023-10-30,Dubai Port,Clear,0
+2023-10-30,Singapore Port,Clear,0
+2023-10-31,Mumbai Port,Clear,0
+2023-10-31,Shanghai Port,Clear,0
+2023-10-31,Los Angeles Port,Clear,0
+2023-10-31,Rotterdam Port,Rain,1
+2023-10-31,Dubai Port,Clear,0
+2023-10-31,Singapore Port,Rain,1
+2023-11-01,Mumbai Port,Clear,0
+2023-11-01,Shanghai Port,Clear,0
+2023-11-01,Los Angeles Port,Clear,0
+2023-11-01,Rotterdam Port,Clear,0
+2023-11-01,Dubai Port,Clear,0
+2023-11-01,Singapore Port,Clear,0
+2023-11-02,Mumbai Port,Clear,0
+2023-11-02,Shanghai Port,Clear,0
+2023-11-02,Los Angeles Port,Clear,0
+2023-11-02,Rotterdam Port,Clear,0
+2023-11-02,Dubai Port,Clear,0
+2023-11-02,Singapore Port,Fog,4
+2023-11-03,Mumbai Port,Clear,0
+2023-11-03,Shanghai Port,Clear,0
+2023-11-03,Los Angeles Port,Clear,0
+2023-11-03,Rotterdam Port,Clear,0
+2023-11-03,Dubai Port,Clear,0
+2023-11-03,Singapore Port,Clear,0
+2023-11-04,Mumbai Port,Clear,0
+2023-11-04,Shanghai Port,Clear,0
+2023-11-04,Los Angeles Port,Clear,0
+2023-11-04,Rotterdam Port,Fog,4
+2023-11-04,Dubai Port,Clear,0
+2023-11-04,Singapore Port,Clear,0
+2023-11-05,Mumbai Port,Heavy Rain,3
+2023-11-05,Shanghai Port,Clear,0
+2023-11-05,Los Angeles Port,Clear,0
+2023-11-05,Rotterdam Port,Storm,7
+2023-11-05,Dubai Port,Clear,0
+2023-11-05,Singapore Port,Clear,0
+2023-11-06,Mumbai Port,Clear,0
+2023-11-06,Shanghai Port,Clear,0
+2023-11-06,Los Angeles Port,Clear,0
+2023-11-06,Rotterdam Port,Rain,1
+2023-11-06,Dubai Port,Rain,1
+2023-11-06,Singapore Port,Clear,0
+2023-11-07,Mumbai Port,Fog,4
+2023-11-07,Shanghai Port,Clear,0
+2023-11-07,Los Angeles Port,Clear,0
+2023-11-07,Rotterdam Port,Clear,0
+2023-11-07,Dubai Port,Clear,0
+2023-11-07,Singapore Port,Clear,0
+2023-11-08,Mumbai Port,Clear,0
+2023-11-08,Shanghai Port,Clear,0
+2023-11-08,Los Angeles Port,Clear,0
+2023-11-08,Rotterdam Port,Clear,0
+2023-11-08,Dubai Port,Clear,0
+2023-11-08,Singapore Port,Fog,4
+2023-11-09,Mumbai Port,Clear,0
+2023-11-09,Shanghai Port,Clear,0
+2023-11-09,Los Angeles Port,Clear,0
+2023-11-09,Rotterdam Port,Clear,0
+2023-11-09,Dubai Port,Clear,0
+2023-11-09,Singapore Port,Clear,0
+2023-11-10,Mumbai Port,Fog,4
+2023-11-10,Shanghai Port,Clear,0
+2023-11-10,Los Angeles Port,Clear,0
+2023-11-10,Rotterdam Port,Clear,0
+2023-11-10,Dubai Port,Clear,0
+2023-11-10,Singapore Port,Clear,0
+2023-11-11,Mumbai Port,Clear,0
+2023-11-11,Shanghai Port,Clear,0
+2023-11-11,Los Angeles Port,Clear,0
+2023-11-11,Rotterdam Port,Clear,0
+2023-11-11,Dubai Port,Clear,0
+2023-11-11,Singapore Port,Clear,0
+2023-11-12,Mumbai Port,Clear,0
+2023-11-12,Shanghai Port,Cyclone,10
+2023-11-12,Los Angeles Port,Clear,0
+2023-11-12,Rotterdam Port,Clear,0
+2023-11-12,Dubai Port,Clear,0
+2023-11-12,Singapore Port,Cyclone,10
+2023-11-13,Mumbai Port,Heavy Rain,3
+2023-11-13,Shanghai Port,Clear,0
+2023-11-13,Los Angeles Port,Clear,0
+2023-11-13,Rotterdam Port,Clear,0
+2023-11-13,Dubai Port,Clear,0
+2023-11-13,Singapore Port,Clear,0
+2023-11-14,Mumbai Port,Clear,0
+2023-11-14,Shanghai Port,Clear,0
+2023-11-14,Los Angeles Port,Clear,0
+2023-11-14,Rotterdam Port,Heavy Rain,3
+2023-11-14,Dubai Port,Fog,4
+2023-11-14,Singapore Port,Clear,0
+2023-11-15,Mumbai Port,Clear,0
+2023-11-15,Shanghai Port,Clear,0
+2023-11-15,Los Angeles Port,Fog,4
+2023-11-15,Rotterdam Port,Clear,0
+2023-11-15,Dubai Port,Clear,0
+2023-11-15,Singapore Port,Clear,0
+2023-11-16,Mumbai Port,Clear,0
+2023-11-16,Shanghai Port,Clear,0
+2023-11-16,Los Angeles Port,Clear,0
+2023-11-16,Rotterdam Port,Clear,0
+2023-11-16,Dubai Port,Cyclone,10
+2023-11-16,Singapore Port,Clear,0
+2023-11-17,Mumbai Port,Rain,1
+2023-11-17,Shanghai Port,Clear,0
+2023-11-17,Los Angeles Port,Clear,0
+2023-11-17,Rotterdam Port,Clear,0
+2023-11-17,Dubai Port,Clear,0
+2023-11-17,Singapore Port,Clear,0
+2023-11-18,Mumbai Port,Cyclone,10
+2023-11-18,Shanghai Port,Clear,0
+2023-11-18,Los Angeles Port,Clear,0
+2023-11-18,Rotterdam Port,Heavy Rain,3
+2023-11-18,Dubai Port,Rain,1
+2023-11-18,Singapore Port,Clear,0
+2023-11-19,Mumbai Port,Clear,0
+2023-11-19,Shanghai Port,Rain,1
+2023-11-19,Los Angeles Port,Clear,0
+2023-11-19,Rotterdam Port,Clear,0
+2023-11-19,Dubai Port,Clear,0
+2023-11-19,Singapore Port,Clear,0
+2023-11-20,Mumbai Port,Clear,0
+2023-11-20,Shanghai Port,Clear,0
+2023-11-20,Los Angeles Port,Fog,4
+2023-11-20,Rotterdam Port,Clear,0
+2023-11-20,Dubai Port,Clear,0
+2023-11-20,Singapore Port,Clear,0
+2023-11-21,Mumbai Port,Clear,0
+2023-11-21,Shanghai Port,Clear,0
+2023-11-21,Los Angeles Port,Heavy Rain,3
+2023-11-21,Rotterdam Port,Clear,0
+2023-11-21,Dubai Port,Clear,0
+2023-11-21,Singapore Port,Clear,0
+2023-11-22,Mumbai Port,Fog,4
+2023-11-22,Shanghai Port,Clear,0
+2023-11-22,Los Angeles Port,Clear,0
+2023-11-22,Rotterdam Port,Clear,0
+2023-11-22,Dubai Port,Clear,0
+2023-11-22,Singapore Port,Clear,0
+2023-11-23,Mumbai Port,Clear,0
+2023-11-23,Shanghai Port,Rain,1
+2023-11-23,Los Angeles Port,Clear,0
+2023-11-23,Rotterdam Port,Rain,1
+2023-11-23,Dubai Port,Clear,0
+2023-11-23,Singapore Port,Clear,0
+2023-11-24,Mumbai Port,Clear,0
+2023-11-24,Shanghai Port,Clear,0
+2023-11-24,Los Angeles Port,Clear,0
+2023-11-24,Rotterdam Port,Clear,0
+2023-11-24,Dubai Port,Clear,0
+2023-11-24,Singapore Port,Clear,0
+2023-11-25,Mumbai Port,Clear,0
+2023-11-25,Shanghai Port,Clear,0
+2023-11-25,Los Angeles Port,Clear,0
+2023-11-25,Rotterdam Port,Clear,0
+2023-11-25,Dubai Port,Clear,0
+2023-11-25,Singapore Port,Clear,0
+2023-11-26,Mumbai Port,Clear,0
+2023-11-26,Shanghai Port,Clear,0
+2023-11-26,Los Angeles Port,Rain,1
+2023-11-26,Rotterdam Port,Clear,0
+2023-11-26,Dubai Port,Clear,0
+2023-11-26,Singapore Port,Clear,0
+2023-11-27,Mumbai Port,Clear,0
+2023-11-27,Shanghai Port,Clear,0
+2023-11-27,Los Angeles Port,Clear,0
+2023-11-27,Rotterdam Port,Clear,0
+2023-11-27,Dubai Port,Clear,0
+2023-11-27,Singapore Port,Heavy Rain,3
+2023-11-28,Mumbai Port,Clear,0
+2023-11-28,Shanghai Port,Rain,1
+2023-11-28,Los Angeles Port,Clear,0
+2023-11-28,Rotterdam Port,Storm,7
+2023-11-28,Dubai Port,Clear,0
+2023-11-28,Singapore Port,Clear,0
+2023-11-29,Mumbai Port,Clear,0
+2023-11-29,Shanghai Port,Clear,0
+2023-11-29,Los Angeles Port,Clear,0
+2023-11-29,Rotterdam Port,Rain,1
+2023-11-29,Dubai Port,Clear,0
+2023-11-29,Singapore Port,Clear,0
+2023-11-30,Mumbai Port,Clear,0
+2023-11-30,Shanghai Port,Clear,0
+2023-11-30,Los Angeles Port,Clear,0
+2023-11-30,Rotterdam Port,Rain,1
+2023-11-30,Dubai Port,Clear,0
+2023-11-30,Singapore Port,Clear,0
+2023-12-01,Mumbai Port,Clear,0
+2023-12-01,Shanghai Port,Clear,0
+2023-12-01,Los Angeles Port,Clear,0
+2023-12-01,Rotterdam Port,Fog,4
+2023-12-01,Dubai Port,Clear,0
+2023-12-01,Singapore Port,Clear,0
+2023-12-02,Mumbai Port,Fog,4
+2023-12-02,Shanghai Port,Clear,0
+2023-12-02,Los Angeles Port,Clear,0
+2023-12-02,Rotterdam Port,Clear,0
+2023-12-02,Dubai Port,Clear,0
+2023-12-02,Singapore Port,Clear,0
+2023-12-03,Mumbai Port,Clear,0
+2023-12-03,Shanghai Port,Clear,0
+2023-12-03,Los Angeles Port,Clear,0
+2023-12-03,Rotterdam Port,Clear,0
+2023-12-03,Dubai Port,Clear,0
+2023-12-03,Singapore Port,Fog,4
+2023-12-04,Mumbai Port,Clear,0
+2023-12-04,Shanghai Port,Clear,0
+2023-12-04,Los Angeles Port,Clear,0
+2023-12-04,Rotterdam Port,Clear,0
+2023-12-04,Dubai Port,Fog,4
+2023-12-04,Singapore Port,Clear,0
+2023-12-05,Mumbai Port,Clear,0
+2023-12-05,Shanghai Port,Clear,0
+2023-12-05,Los Angeles Port,Clear,0
+2023-12-05,Rotterdam Port,Clear,0
+2023-12-05,Dubai Port,Clear,0
+2023-12-05,Singapore Port,Clear,0
+2023-12-06,Mumbai Port,Clear,0
+2023-12-06,Shanghai Port,Clear,0
+2023-12-06,Los Angeles Port,Clear,0
+2023-12-06,Rotterdam Port,Clear,0
+2023-12-06,Dubai Port,Clear,0
+2023-12-06,Singapore Port,Clear,0
+2023-12-07,Mumbai Port,Clear,0
+2023-12-07,Shanghai Port,Clear,0
+2023-12-07,Los Angeles Port,Clear,0
+2023-12-07,Rotterdam Port,Clear,0
+2023-12-07,Dubai Port,Clear,0
+2023-12-07,Singapore Port,Clear,0
+2023-12-08,Mumbai Port,Clear,0
+2023-12-08,Shanghai Port,Cyclone,10
+2023-12-08,Los Angeles Port,Clear,0
+2023-12-08,Rotterdam Port,Fog,4
+2023-12-08,Dubai Port,Fog,4
+2023-12-08,Singapore Port,Clear,0
+2023-12-09,Mumbai Port,Clear,0
+2023-12-09,Shanghai Port,Heavy Rain,3
+2023-12-09,Los Angeles Port,Clear,0
+2023-12-09,Rotterdam Port,Clear,0
+2023-12-09,Dubai Port,Clear,0
+2023-12-09,Singapore Port,Clear,0
+2023-12-10,Mumbai Port,Clear,0
+2023-12-10,Shanghai Port,Heavy Rain,3
+2023-12-10,Los Angeles Port,Fog,4
+2023-12-10,Rotterdam Port,Clear,0
+2023-12-10,Dubai Port,Clear,0
+2023-12-10,Singapore Port,Clear,0
+2023-12-11,Mumbai Port,Clear,0
+2023-12-11,Shanghai Port,Clear,0
+2023-12-11,Los Angeles Port,Clear,0
+2023-12-11,Rotterdam Port,Clear,0
+2023-12-11,Dubai Port,Clear,0
+2023-12-11,Singapore Port,Rain,1
+2023-12-12,Mumbai Port,Clear,0
+2023-12-12,Shanghai Port,Clear,0
+2023-12-12,Los Angeles Port,Clear,0
+2023-12-12,Rotterdam Port,Fog,4
+2023-12-12,Dubai Port,Clear,0
+2023-12-12,Singapore Port,Clear,0
+2023-12-13,Mumbai Port,Clear,0
+2023-12-13,Shanghai Port,Clear,0
+2023-12-13,Los Angeles Port,Clear,0
+2023-12-13,Rotterdam Port,Clear,0
+2023-12-13,Dubai Port,Heavy Rain,3
+2023-12-13,Singapore Port,Clear,0
+2023-12-14,Mumbai Port,Clear,0
+2023-12-14,Shanghai Port,Clear,0
+2023-12-14,Los Angeles Port,Clear,0
+2023-12-14,Rotterdam Port,Clear,0
+2023-12-14,Dubai Port,Clear,0
+2023-12-14,Singapore Port,Clear,0
+2023-12-15,Mumbai Port,Clear,0
+2023-12-15,Shanghai Port,Clear,0
+2023-12-15,Los Angeles Port,Clear,0
+2023-12-15,Rotterdam Port,Clear,0
+2023-12-15,Dubai Port,Clear,0
+2023-12-15,Singapore Port,Clear,0
+2023-12-16,Mumbai Port,Clear,0
+2023-12-16,Shanghai Port,Clear,0
+2023-12-16,Los Angeles Port,Heavy Rain,3
+2023-12-16,Rotterdam Port,Clear,0
+2023-12-16,Dubai Port,Clear,0
+2023-12-16,Singapore Port,Clear,0
+2023-12-17,Mumbai Port,Clear,0
+2023-12-17,Shanghai Port,Fog,4
+2023-12-17,Los Angeles Port,Clear,0
+2023-12-17,Rotterdam Port,Clear,0
+2023-12-17,Dubai Port,Clear,0
+2023-12-17,Singapore Port,Clear,0
+2023-12-18,Mumbai Port,Clear,0
+2023-12-18,Shanghai Port,Clear,0
+2023-12-18,Los Angeles Port,Clear,0
+2023-12-18,Rotterdam Port,Clear,0
+2023-12-18,Dubai Port,Heavy Rain,3
+2023-12-18,Singapore Port,Clear,0
+2023-12-19,Mumbai Port,Clear,0
+2023-12-19,Shanghai Port,Clear,0
+2023-12-19,Los Angeles Port,Clear,0
+2023-12-19,Rotterdam Port,Clear,0
+2023-12-19,Dubai Port,Clear,0
+2023-12-19,Singapore Port,Clear,0
+2023-12-20,Mumbai Port,Clear,0
+2023-12-20,Shanghai Port,Clear,0
+2023-12-20,Los Angeles Port,Clear,0
+2023-12-20,Rotterdam Port,Clear,0
+2023-12-20,Dubai Port,Clear,0
+2023-12-20,Singapore Port,Clear,0
+2023-12-21,Mumbai Port,Clear,0
+2023-12-21,Shanghai Port,Clear,0
+2023-12-21,Los Angeles Port,Clear,0
+2023-12-21,Rotterdam Port,Clear,0
+2023-12-21,Dubai Port,Clear,0
+2023-12-21,Singapore Port,Clear,0
+2023-12-22,Mumbai Port,Clear,0
+2023-12-22,Shanghai Port,Clear,0
+2023-12-22,Los Angeles Port,Clear,0
+2023-12-22,Rotterdam Port,Clear,0
+2023-12-22,Dubai Port,Clear,0
+2023-12-22,Singapore Port,Clear,0
+2023-12-23,Mumbai Port,Clear,0
+2023-12-23,Shanghai Port,Clear,0
+2023-12-23,Los Angeles Port,Clear,0
+2023-12-23,Rotterdam Port,Clear,0
+2023-12-23,Dubai Port,Clear,0
+2023-12-23,Singapore Port,Clear,0
+2023-12-24,Mumbai Port,Clear,0
+2023-12-24,Shanghai Port,Clear,0
+2023-12-24,Los Angeles Port,Clear,0
+2023-12-24,Rotterdam Port,Clear,0
+2023-12-24,Dubai Port,Clear,0
+2023-12-24,Singapore Port,Fog,4
+2023-12-25,Mumbai Port,Clear,0
+2023-12-25,Shanghai Port,Clear,0
+2023-12-25,Los Angeles Port,Clear,0
+2023-12-25,Rotterdam Port,Clear,0
+2023-12-25,Dubai Port,Clear,0
+2023-12-25,Singapore Port,Clear,0
+2023-12-26,Mumbai Port,Clear,0
+2023-12-26,Shanghai Port,Clear,0
+2023-12-26,Los Angeles Port,Clear,0
+2023-12-26,Rotterdam Port,Clear,0
+2023-12-26,Dubai Port,Clear,0
+2023-12-26,Singapore Port,Heavy Rain,3
+2023-12-27,Mumbai Port,Clear,0
+2023-12-27,Shanghai Port,Heavy Rain,3
+2023-12-27,Los Angeles Port,Clear,0
+2023-12-27,Rotterdam Port,Clear,0
+2023-12-27,Dubai Port,Rain,1
+2023-12-27,Singapore Port,Clear,0
+2023-12-28,Mumbai Port,Clear,0
+2023-12-28,Shanghai Port,Clear,0
+2023-12-28,Los Angeles Port,Clear,0
+2023-12-28,Rotterdam Port,Clear,0
+2023-12-28,Dubai Port,Clear,0
+2023-12-28,Singapore Port,Clear,0
+2023-12-29,Mumbai Port,Clear,0
+2023-12-29,Shanghai Port,Clear,0
+2023-12-29,Los Angeles Port,Clear,0
+2023-12-29,Rotterdam Port,Clear,0
+2023-12-29,Dubai Port,Clear,0
+2023-12-29,Singapore Port,Fog,4
+2023-12-30,Mumbai Port,Clear,0
+2023-12-30,Shanghai Port,Clear,0
+2023-12-30,Los Angeles Port,Clear,0
+2023-12-30,Rotterdam Port,Clear,0
+2023-12-30,Dubai Port,Clear,0
+2023-12-30,Singapore Port,Clear,0
+2023-12-31,Mumbai Port,Clear,0
+2023-12-31,Shanghai Port,Clear,0
+2023-12-31,Los Angeles Port,Clear,0
+2023-12-31,Rotterdam Port,Clear,0
+2023-12-31,Dubai Port,Clear,0
+2023-12-31,Singapore Port,Clear,0
+2024-01-01,Mumbai Port,Clear,0
+2024-01-01,Shanghai Port,Clear,0
+2024-01-01,Los Angeles Port,Clear,0
+2024-01-01,Rotterdam Port,Clear,0
+2024-01-01,Dubai Port,Clear,0
+2024-01-01,Singapore Port,Clear,0
+2024-01-02,Mumbai Port,Clear,0
+2024-01-02,Shanghai Port,Storm,7
+2024-01-02,Los Angeles Port,Clear,0
+2024-01-02,Rotterdam Port,Clear,0
+2024-01-02,Dubai Port,Clear,0
+2024-01-02,Singapore Port,Clear,0
+2024-01-03,Mumbai Port,Clear,0
+2024-01-03,Shanghai Port,Clear,0
+2024-01-03,Los Angeles Port,Clear,0
+2024-01-03,Rotterdam Port,Clear,0
+2024-01-03,Dubai Port,Clear,0
+2024-01-03,Singapore Port,Clear,0
+2024-01-04,Mumbai Port,Clear,0
+2024-01-04,Shanghai Port,Clear,0
+2024-01-04,Los Angeles Port,Clear,0
+2024-01-04,Rotterdam Port,Clear,0
+2024-01-04,Dubai Port,Clear,0
+2024-01-04,Singapore Port,Clear,0
+2024-01-05,Mumbai Port,Clear,0
+2024-01-05,Shanghai Port,Clear,0
+2024-01-05,Los Angeles Port,Clear,0
+2024-01-05,Rotterdam Port,Clear,0
+2024-01-05,Dubai Port,Rain,1
+2024-01-05,Singapore Port,Clear,0
+2024-01-06,Mumbai Port,Clear,0
+2024-01-06,Shanghai Port,Clear,0
+2024-01-06,Los Angeles Port,Clear,0
+2024-01-06,Rotterdam Port,Clear,0
+2024-01-06,Dubai Port,Clear,0
+2024-01-06,Singapore Port,Clear,0
+2024-01-07,Mumbai Port,Clear,0
+2024-01-07,Shanghai Port,Clear,0
+2024-01-07,Los Angeles Port,Clear,0
+2024-01-07,Rotterdam Port,Cyclone,10
+2024-01-07,Dubai Port,Clear,0
+2024-01-07,Singapore Port,Clear,0
+2024-01-08,Mumbai Port,Clear,0
+2024-01-08,Shanghai Port,Clear,0
+2024-01-08,Los Angeles Port,Heavy Rain,3
+2024-01-08,Rotterdam Port,Clear,0
+2024-01-08,Dubai Port,Clear,0
+2024-01-08,Singapore Port,Clear,0
+2024-01-09,Mumbai Port,Clear,0
+2024-01-09,Shanghai Port,Clear,0
+2024-01-09,Los Angeles Port,Clear,0
+2024-01-09,Rotterdam Port,Clear,0
+2024-01-09,Dubai Port,Clear,0
+2024-01-09,Singapore Port,Clear,0
+2024-01-10,Mumbai Port,Clear,0
+2024-01-10,Shanghai Port,Heavy Rain,3
+2024-01-10,Los Angeles Port,Clear,0
+2024-01-10,Rotterdam Port,Clear,0
+2024-01-10,Dubai Port,Clear,0
+2024-01-10,Singapore Port,Clear,0
+2024-01-11,Mumbai Port,Clear,0
+2024-01-11,Shanghai Port,Clear,0
+2024-01-11,Los Angeles Port,Clear,0
+2024-01-11,Rotterdam Port,Clear,0
+2024-01-11,Dubai Port,Clear,0
+2024-01-11,Singapore Port,Clear,0
+2024-01-12,Mumbai Port,Clear,0
+2024-01-12,Shanghai Port,Clear,0
+2024-01-12,Los Angeles Port,Clear,0
+2024-01-12,Rotterdam Port,Clear,0
+2024-01-12,Dubai Port,Clear,0
+2024-01-12,Singapore Port,Clear,0
+2024-01-13,Mumbai Port,Clear,0
+2024-01-13,Shanghai Port,Clear,0
+2024-01-13,Los Angeles Port,Clear,0
+2024-01-13,Rotterdam Port,Clear,0
+2024-01-13,Dubai Port,Cyclone,10
+2024-01-13,Singapore Port,Heavy Rain,3
+2024-01-14,Mumbai Port,Clear,0
+2024-01-14,Shanghai Port,Clear,0
+2024-01-14,Los Angeles Port,Fog,4
+2024-01-14,Rotterdam Port,Clear,0
+2024-01-14,Dubai Port,Clear,0
+2024-01-14,Singapore Port,Heavy Rain,3
+2024-01-15,Mumbai Port,Clear,0
+2024-01-15,Shanghai Port,Clear,0
+2024-01-15,Los Angeles Port,Clear,0
+2024-01-15,Rotterdam Port,Clear,0
+2024-01-15,Dubai Port,Clear,0
+2024-01-15,Singapore Port,Clear,0
+2024-01-16,Mumbai Port,Clear,0
+2024-01-16,Shanghai Port,Fog,4
+2024-01-16,Los Angeles Port,Clear,0
+2024-01-16,Rotterdam Port,Clear,0
+2024-01-16,Dubai Port,Clear,0
+2024-01-16,Singapore Port,Rain,1
+2024-01-17,Mumbai Port,Clear,0
+2024-01-17,Shanghai Port,Clear,0
+2024-01-17,Los Angeles Port,Rain,1
+2024-01-17,Rotterdam Port,Clear,0
+2024-01-17,Dubai Port,Clear,0
+2024-01-17,Singapore Port,Clear,0
+2024-01-18,Mumbai Port,Clear,0
+2024-01-18,Shanghai Port,Clear,0
+2024-01-18,Los Angeles Port,Clear,0
+2024-01-18,Rotterdam Port,Clear,0
+2024-01-18,Dubai Port,Clear,0
+2024-01-18,Singapore Port,Rain,1
+2024-01-19,Mumbai Port,Clear,0
+2024-01-19,Shanghai Port,Clear,0
+2024-01-19,Los Angeles Port,Clear,0
+2024-01-19,Rotterdam Port,Clear,0
+2024-01-19,Dubai Port,Clear,0
+2024-01-19,Singapore Port,Clear,0
+2024-01-20,Mumbai Port,Clear,0
+2024-01-20,Shanghai Port,Clear,0
+2024-01-20,Los Angeles Port,Fog,4
+2024-01-20,Rotterdam Port,Clear,0
+2024-01-20,Dubai Port,Clear,0
+2024-01-20,Singapore Port,Clear,0
+2024-01-21,Mumbai Port,Cyclone,10
+2024-01-21,Shanghai Port,Clear,0
+2024-01-21,Los Angeles Port,Clear,0
+2024-01-21,Rotterdam Port,Clear,0
+2024-01-21,Dubai Port,Clear,0
+2024-01-21,Singapore Port,Rain,1
+2024-01-22,Mumbai Port,Clear,0
+2024-01-22,Shanghai Port,Clear,0
+2024-01-22,Los Angeles Port,Clear,0
+2024-01-22,Rotterdam Port,Clear,0
+2024-01-22,Dubai Port,Clear,0
+2024-01-22,Singapore Port,Clear,0
+2024-01-23,Mumbai Port,Clear,0
+2024-01-23,Shanghai Port,Clear,0
+2024-01-23,Los Angeles Port,Clear,0
+2024-01-23,Rotterdam Port,Clear,0
+2024-01-23,Dubai Port,Clear,0
+2024-01-23,Singapore Port,Clear,0
+2024-01-24,Mumbai Port,Fog,4
+2024-01-24,Shanghai Port,Clear,0
+2024-01-24,Los Angeles Port,Cyclone,10
+2024-01-24,Rotterdam Port,Clear,0
+2024-01-24,Dubai Port,Clear,0
+2024-01-24,Singapore Port,Clear,0
+2024-01-25,Mumbai Port,Clear,0
+2024-01-25,Shanghai Port,Clear,0
+2024-01-25,Los Angeles Port,Clear,0
+2024-01-25,Rotterdam Port,Clear,0
+2024-01-25,Dubai Port,Clear,0
+2024-01-25,Singapore Port,Fog,4
+2024-01-26,Mumbai Port,Clear,0
+2024-01-26,Shanghai Port,Heavy Rain,3
+2024-01-26,Los Angeles Port,Clear,0
+2024-01-26,Rotterdam Port,Clear,0
+2024-01-26,Dubai Port,Clear,0
+2024-01-26,Singapore Port,Clear,0
+2024-01-27,Mumbai Port,Clear,0
+2024-01-27,Shanghai Port,Clear,0
+2024-01-27,Los Angeles Port,Clear,0
+2024-01-27,Rotterdam Port,Clear,0
+2024-01-27,Dubai Port,Clear,0
+2024-01-27,Singapore Port,Clear,0
+2024-01-28,Mumbai Port,Clear,0
+2024-01-28,Shanghai Port,Clear,0
+2024-01-28,Los Angeles Port,Clear,0
+2024-01-28,Rotterdam Port,Clear,0
+2024-01-28,Dubai Port,Clear,0
+2024-01-28,Singapore Port,Clear,0
+2024-01-29,Mumbai Port,Clear,0
+2024-01-29,Shanghai Port,Clear,0
+2024-01-29,Los Angeles Port,Clear,0
+2024-01-29,Rotterdam Port,Clear,0
+2024-01-29,Dubai Port,Clear,0
+2024-01-29,Singapore Port,Cyclone,10
+2024-01-30,Mumbai Port,Clear,0
+2024-01-30,Shanghai Port,Clear,0
+2024-01-30,Los Angeles Port,Clear,0
+2024-01-30,Rotterdam Port,Clear,0
+2024-01-30,Dubai Port,Clear,0
+2024-01-30,Singapore Port,Clear,0
+2024-01-31,Mumbai Port,Clear,0
+2024-01-31,Shanghai Port,Clear,0
+2024-01-31,Los Angeles Port,Clear,0
+2024-01-31,Rotterdam Port,Clear,0
+2024-01-31,Dubai Port,Rain,1
+2024-01-31,Singapore Port,Heavy Rain,3
+2024-02-01,Mumbai Port,Clear,0
+2024-02-01,Shanghai Port,Clear,0
+2024-02-01,Los Angeles Port,Clear,0
+2024-02-01,Rotterdam Port,Clear,0
+2024-02-01,Dubai Port,Clear,0
+2024-02-01,Singapore Port,Clear,0
+2024-02-02,Mumbai Port,Clear,0
+2024-02-02,Shanghai Port,Clear,0
+2024-02-02,Los Angeles Port,Clear,0
+2024-02-02,Rotterdam Port,Clear,0
+2024-02-02,Dubai Port,Clear,0
+2024-02-02,Singapore Port,Clear,0
+2024-02-03,Mumbai Port,Clear,0
+2024-02-03,Shanghai Port,Rain,1
+2024-02-03,Los Angeles Port,Clear,0
+2024-02-03,Rotterdam Port,Clear,0
+2024-02-03,Dubai Port,Clear,0
+2024-02-03,Singapore Port,Rain,1
+2024-02-04,Mumbai Port,Rain,1
+2024-02-04,Shanghai Port,Heavy Rain,3
+2024-02-04,Los Angeles Port,Clear,0
+2024-02-04,Rotterdam Port,Clear,0
+2024-02-04,Dubai Port,Clear,0
+2024-02-04,Singapore Port,Heavy Rain,3

@@ -1,0 +1,75 @@
+date,location,text_snippet,source
+2023-01-01,Mumbai Port,Customs system failure at Mumbai Port delays processing by 48 hours.,Port Authority Mock
+2023-01-05,Mumbai Port,"Severe storm approaching Mumbai Port, expect delays.",NewsAPI Mock
+2023-01-18,Rotterdam Port,Port of Rotterdam Port under lockdown due to Cyclone.,NewsAPI Mock
+2023-01-25,Dubai Port,Customs system failure at Dubai Port delays processing by 48 hours.,Port Authority Mock
+2023-01-26,Rotterdam Port,Customs system failure at Rotterdam Port delays processing by 48 hours.,Port Authority Mock
+2023-01-31,Rotterdam Port,Workers strike at Rotterdam Port causing massive backlog.,Port Authority Mock
+2023-02-13,Rotterdam Port,"Severe storm approaching Rotterdam Port, expect delays.",NewsAPI Mock
+2023-03-03,Dubai Port,"High congestion reported at Dubai Port, vessels waiting at anchorage.",Port Authority Mock
+2023-03-11,Singapore Port,Customs system failure at Singapore Port delays processing by 48 hours.,Port Authority Mock
+2023-03-14,Singapore Port,Customs system failure at Singapore Port delays processing by 48 hours.,Port Authority Mock
+2023-03-15,Rotterdam Port,Workers strike at Rotterdam Port causing massive backlog.,Port Authority Mock
+2023-03-17,Singapore Port,Storm halts operations at Singapore Port.,NewsAPI Mock
+2023-03-19,Shanghai Port,Customs system failure at Shanghai Port delays processing by 48 hours.,Port Authority Mock
+2023-03-19,Dubai Port,"High congestion reported at Dubai Port, vessels waiting at anchorage.",Port Authority Mock
+2023-03-23,Singapore Port,Customs system failure at Singapore Port delays processing by 48 hours.,Port Authority Mock
+2023-03-23,Singapore Port,Port of Singapore Port under lockdown due to Cyclone.,NewsAPI Mock
+2023-03-23,Mumbai Port,"High congestion reported at Mumbai Port, vessels waiting at anchorage.",Port Authority Mock
+2023-03-26,Singapore Port,Cyclone halts operations at Singapore Port.,NewsAPI Mock
+2023-03-26,Singapore Port,"High congestion reported at Singapore Port, vessels waiting at anchorage.",Port Authority Mock
+2023-04-04,Rotterdam Port,"High congestion reported at Rotterdam Port, vessels waiting at anchorage.",Port Authority Mock
+2023-04-10,Shanghai Port,"High congestion reported at Shanghai Port, vessels waiting at anchorage.",Port Authority Mock
+2023-04-16,Singapore Port,Port of Singapore Port under lockdown due to Cyclone.,NewsAPI Mock
+2023-04-24,Mumbai Port,Workers strike at Mumbai Port causing massive backlog.,Port Authority Mock
+2023-04-26,Los Angeles Port,Workers strike at Los Angeles Port causing massive backlog.,Port Authority Mock
+2023-04-27,Dubai Port,Cyclone halts operations at Dubai Port.,NewsAPI Mock
+2023-04-27,Rotterdam Port,Workers strike at Rotterdam Port causing massive backlog.,Port Authority Mock
+2023-05-02,Singapore Port,Port of Singapore Port under lockdown due to Storm.,NewsAPI Mock
+2023-05-08,Los Angeles Port,Workers strike at Los Angeles Port causing massive backlog.,Port Authority Mock
+2023-05-15,Mumbai Port,Customs system failure at Mumbai Port delays processing by 48 hours.,Port Authority Mock
+2023-05-21,Dubai Port,"Severe cyclone approaching Dubai Port, expect delays.",NewsAPI Mock
+2023-06-01,Shanghai Port,Customs system failure at Shanghai Port delays processing by 48 hours.,Port Authority Mock
+2023-06-07,Rotterdam Port,Customs system failure at Rotterdam Port delays processing by 48 hours.,Port Authority Mock
+2023-06-09,Dubai Port,Workers strike at Dubai Port causing massive backlog.,Port Authority Mock
+2023-06-09,Shanghai Port,"High congestion reported at Shanghai Port, vessels waiting at anchorage.",Port Authority Mock
+2023-07-19,Dubai Port,Customs system failure at Dubai Port delays processing by 48 hours.,Port Authority Mock
+2023-07-20,Dubai Port,Workers strike at Dubai Port causing massive backlog.,Port Authority Mock
+2023-07-25,Mumbai Port,"High congestion reported at Mumbai Port, vessels waiting at anchorage.",Port Authority Mock
+2023-08-05,Los Angeles Port,"Severe storm approaching Los Angeles Port, expect delays.",NewsAPI Mock
+2023-08-06,Shanghai Port,Customs system failure at Shanghai Port delays processing by 48 hours.,Port Authority Mock
+2023-08-07,Singapore Port,Workers strike at Singapore Port causing massive backlog.,Port Authority Mock
+2023-08-07,Mumbai Port,Cyclone halts operations at Mumbai Port.,NewsAPI Mock
+2023-08-13,Los Angeles Port,Workers strike at Los Angeles Port causing massive backlog.,Port Authority Mock
+2023-08-22,Singapore Port,Workers strike at Singapore Port causing massive backlog.,Port Authority Mock
+2023-08-30,Shanghai Port,"High congestion reported at Shanghai Port, vessels waiting at anchorage.",Port Authority Mock
+2023-09-01,Rotterdam Port,Customs system failure at Rotterdam Port delays processing by 48 hours.,Port Authority Mock
+2023-09-22,Shanghai Port,"Severe cyclone approaching Shanghai Port, expect delays.",NewsAPI Mock
+2023-09-27,Dubai Port,Workers strike at Dubai Port causing massive backlog.,Port Authority Mock
+2023-09-29,Shanghai Port,Customs system failure at Shanghai Port delays processing by 48 hours.,Port Authority Mock
+2023-10-04,Shanghai Port,"High congestion reported at Shanghai Port, vessels waiting at anchorage.",Port Authority Mock
+2023-10-05,Singapore Port,"High congestion reported at Singapore Port, vessels waiting at anchorage.",Port Authority Mock
+2023-10-06,Shanghai Port,Workers strike at Shanghai Port causing massive backlog.,Port Authority Mock
+2023-10-11,Mumbai Port,"High congestion reported at Mumbai Port, vessels waiting at anchorage.",Port Authority Mock
+2023-10-16,Dubai Port,"High congestion reported at Dubai Port, vessels waiting at anchorage.",Port Authority Mock
+2023-10-25,Rotterdam Port,Port of Rotterdam Port under lockdown due to Storm.,NewsAPI Mock
+2023-10-30,Rotterdam Port,Storm halts operations at Rotterdam Port.,NewsAPI Mock
+2023-11-05,Rotterdam Port,"Severe storm approaching Rotterdam Port, expect delays.",NewsAPI Mock
+2023-11-10,Dubai Port,Workers strike at Dubai Port causing massive backlog.,Port Authority Mock
+2023-11-12,Shanghai Port,"Severe cyclone approaching Shanghai Port, expect delays.",NewsAPI Mock
+2023-11-12,Singapore Port,"Severe cyclone approaching Singapore Port, expect delays.",NewsAPI Mock
+2023-11-13,Shanghai Port,"High congestion reported at Shanghai Port, vessels waiting at anchorage.",Port Authority Mock
+2023-11-16,Dubai Port,Port of Dubai Port under lockdown due to Cyclone.,NewsAPI Mock
+2023-11-18,Mumbai Port,Cyclone halts operations at Mumbai Port.,NewsAPI Mock
+2023-11-23,Mumbai Port,"High congestion reported at Mumbai Port, vessels waiting at anchorage.",Port Authority Mock
+2023-11-28,Rotterdam Port,"Severe storm approaching Rotterdam Port, expect delays.",NewsAPI Mock
+2023-12-09,Los Angeles Port,"High congestion reported at Los Angeles Port, vessels waiting at anchorage.",Port Authority Mock
+2023-12-29,Dubai Port,"High congestion reported at Dubai Port, vessels waiting at anchorage.",Port Authority Mock
+2024-01-02,Shanghai Port,"Severe storm approaching Shanghai Port, expect delays.",NewsAPI Mock
+2024-01-11,Singapore Port,Customs system failure at Singapore Port delays processing by 48 hours.,Port Authority Mock
+2024-01-14,Dubai Port,"High congestion reported at Dubai Port, vessels waiting at anchorage.",Port Authority Mock
+2024-01-21,Mumbai Port,Cyclone halts operations at Mumbai Port.,NewsAPI Mock
+2024-01-24,Los Angeles Port,"Severe cyclone approaching Los Angeles Port, expect delays.",NewsAPI Mock
+2024-01-25,Los Angeles Port,Workers strike at Los Angeles Port causing massive backlog.,Port Authority Mock
+2024-01-27,Shanghai Port,Customs system failure at Shanghai Port delays processing by 48 hours.,Port Authority Mock
+2024-01-31,Singapore Port,"High congestion reported at Singapore Port, vessels waiting at anchorage.",Port Authority Mock
